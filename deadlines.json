@@ -1,0 +1,1320 @@
+{
+ "format": 1,
+ "generated_on": "2026-09-18",
+ "festivals": [
+  {
+   "id": "ann-arbor",
+   "name": "Ann Arbor Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/AAFilmFest",
+   "logo": "logos/ann-arbor.png"
+  },
+  {
+   "id": "ashland-independent",
+   "name": "Ashland Independent Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/ashlandfilm",
+   "logo": "logos/ashland-independent.png"
+  },
+  {
+   "id": "atlanta",
+   "name": "Atlanta Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/ATLFF",
+   "logo": "logos/atlanta.png"
+  },
+  {
+   "id": "austin",
+   "name": "Austin Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/AustinFilmFestival",
+   "logo": "logos/austin.png"
+  },
+  {
+   "id": "bafici",
+   "name": "BAFICI (Buenos Aires Festival Internacional de Cine Independiente)",
+   "entry": "open",
+   "page": "https://bafici.org",
+   "logo": "logos/bafici.png"
+  },
+  {
+   "id": "berlin-gate",
+   "name": "Berlin Gate International Film Festival (BGIFF)",
+   "entry": "open",
+   "page": "https://bgiff.com",
+   "logo": "logos/berlin-gate.png"
+  },
+  {
+   "id": "berlinale",
+   "name": "Berlinale",
+   "entry": "open",
+   "page": "https://www.berlinale.de/en/film-entry",
+   "logo": "logos/berlinale.png"
+  },
+  {
+   "id": "brooklyn",
+   "name": "Brooklyn Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/BrooklynFilmFestival",
+   "logo": "logos/brooklyn.png"
+  },
+  {
+   "id": "busan",
+   "name": "Busan International Film Festival",
+   "entry": "open",
+   "page": "https://biff.kr",
+   "logo": "logos/busan.png"
+  },
+  {
+   "id": "cannes",
+   "name": "Cannes Film Festival",
+   "entry": "invitation",
+   "page": "https://www.festival-cannes.com/en/",
+   "logo": "logos/cannes.png"
+  },
+  {
+   "id": "chicago-underground",
+   "name": "Chicago Underground Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/ChicagoUndergroundFilmFestival",
+   "logo": "logos/chicago-underground.png"
+  },
+  {
+   "id": "cleveland",
+   "name": "Cleveland International Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/ClevelandInternationalFilmFestival",
+   "logo": "logos/cleveland.png"
+  },
+  {
+   "id": "cork",
+   "name": "Cork International Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/CorkFilmFestival",
+   "logo": "logos/cork.png"
+  },
+  {
+   "id": "cucalorus",
+   "name": "Cucalorus Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/CucalorusFilmFestival",
+   "logo": "logos/cucalorus.png"
+  },
+  {
+   "id": "deadcenter",
+   "name": "deadCenter Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/deadCenter",
+   "logo": "logos/deadcenter.png"
+  },
+  {
+   "id": "deauville-american",
+   "name": "Deauville American Film Festival",
+   "entry": "none",
+   "page": "https://festival-deauville.com/pid22/home",
+   "logo": "logos/deauville-american.png"
+  },
+  {
+   "id": "deauville-green-awards",
+   "name": "Deauville Green Awards",
+   "entry": "open",
+   "page": "https://filmfreeway.com/DeauvilleGreenAwards",
+   "logo": "logos/deauville-green-awards.png"
+  },
+  {
+   "id": "diametrale-experimental",
+   "name": "DIAMETRALE - Experimental Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com",
+   "logo": "logos/diametrale-experimental.png"
+  },
+  {
+   "id": "directors-notes",
+   "name": "Directors Notes",
+   "entry": "open",
+   "page": "https://filmfreeway.com",
+   "logo": "logos/directors-notes.png"
+  },
+  {
+   "id": "edinburgh",
+   "name": "Edinburgh International Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/EdFilmFest2026",
+   "logo": "logos/edinburgh.png"
+  },
+  {
+   "id": "fest-new-directors-new-films",
+   "name": "FEST - New Directors New Films",
+   "entry": "open",
+   "page": "https://filmfreeway.com/FestNewDirectorsNewFilmsFestival",
+   "logo": "logos/fest-new-directors-new-films.png"
+  },
+  {
+   "id": "ficci-cartagena",
+   "name": "FICCI Cartagena",
+   "entry": "open",
+   "page": "https://ficcifestival.com (Festhome)",
+   "logo": "logos/ficci-cartagena.png"
+  },
+  {
+   "id": "ficvaldivia",
+   "name": "FICValdivia (Valdivia International Film Festival)",
+   "entry": "open",
+   "page": "https://ficvaldivia.cl (submit via Festhome)",
+   "logo": "logos/ficvaldivia.png"
+  },
+  {
+   "id": "foyle",
+   "name": "Foyle Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com",
+   "logo": "logos/foyle.png"
+  },
+  {
+   "id": "george-lindsey-una",
+   "name": "George Lindsey UNA Film Festival",
+   "entry": "open",
+   "page": "https://lindseyfilmfest.com",
+   "logo": "logos/george-lindsey-una.png"
+  },
+  {
+   "id": "heartland",
+   "name": "Heartland Film Festival",
+   "entry": "open",
+   "page": "https://heartlandfilm.org/submit",
+   "logo": "logos/heartland.png"
+  },
+  {
+   "id": "iffr-rotterdam",
+   "name": "IFFR Rotterdam",
+   "entry": "open",
+   "page": "https://iffr.com/en/iffr-pro-submissions/film-entry",
+   "logo": "logos/iffr-rotterdam.png"
+  },
+  {
+   "id": "karlovy-vary",
+   "name": "Karlovy Vary International Film Festival (KVIFF)",
+   "entry": "open",
+   "page": "https://kviff.com/en/film-entry",
+   "logo": "logos/karlovy-vary.png"
+  },
+  {
+   "id": "levante-mostra-del-di-taranto",
+   "name": "Levante — Mostra del Cinema di Taranto",
+   "entry": "open",
+   "page": "https://www.mostracinemataranto.org/",
+   "logo": "logos/levante-mostra-del-di-taranto.png"
+  },
+  {
+   "id": "locarno",
+   "name": "Locarno Festival",
+   "entry": "open",
+   "page": "https://locarnofestival.ch/Film-Submission.html",
+   "logo": "logos/locarno.png"
+  },
+  {
+   "id": "malaga",
+   "name": "Festival de Malaga",
+   "entry": "open",
+   "page": "https://festivaldemalaga.com (Festhome)",
+   "logo": "logos/malaga.png"
+  },
+  {
+   "id": "mar-del-plata",
+   "name": "Mar del Plata International Film Festival",
+   "entry": "open",
+   "page": "https://mardelplatafilmfest.com",
+   "logo": "logos/mar-del-plata.png"
+  },
+  {
+   "id": "milwaukee",
+   "name": "Milwaukee Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/MilwaukeeFilmFestival",
+   "logo": "logos/milwaukee.png"
+  },
+  {
+   "id": "mpumalanga",
+   "name": "Mpumalanga International Film Festival",
+   "entry": "open",
+   "page": "https://miff.co.za",
+   "logo": "logos/mpumalanga.png"
+  },
+  {
+   "id": "new-media",
+   "name": "New Media Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com",
+   "logo": "logos/new-media.png"
+  },
+  {
+   "id": "new-next",
+   "name": "New/Next Film Festival",
+   "entry": "open",
+   "page": "https://newnextfilmfest.com",
+   "logo": "logos/new-next.png"
+  },
+  {
+   "id": "new-york-screening",
+   "name": "New York Film Screening Festival",
+   "entry": "open",
+   "page": "https://nyfilmscreeningfest.com",
+   "logo": "logos/new-york-screening.png"
+  },
+  {
+   "id": "ojai",
+   "name": "Ojai Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/OjaiFilmFestival",
+   "logo": "logos/ojai.png"
+  },
+  {
+   "id": "omaha",
+   "name": "Omaha Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com",
+   "logo": "logos/omaha.png"
+  },
+  {
+   "id": "oregon-independent",
+   "name": "Oregon Independent Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/OregonIndependentFilmFestival",
+   "logo": "logos/oregon-independent.png"
+  },
+  {
+   "id": "ouray",
+   "name": "Ouray International Film Festival",
+   "entry": "open",
+   "page": "https://ourayfilmfestival.com",
+   "logo": "logos/ouray.png"
+  },
+  {
+   "id": "phoenix",
+   "name": "Phoenix Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/PhoenixFilmFestival",
+   "logo": "logos/phoenix.png"
+  },
+  {
+   "id": "poff-tallinn-black-nights",
+   "name": "PÖFF - Tallinn Black Nights",
+   "entry": "open",
+   "page": "https://filmfreeway.com/blacknightsfilmfestival",
+   "logo": "logos/poff-tallinn-black-nights.png"
+  },
+  {
+   "id": "portland",
+   "name": "Portland Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/PortlandFilm",
+   "logo": "logos/portland.png"
+  },
+  {
+   "id": "pov",
+   "name": "POV (PBS documentary strand)",
+   "entry": "rolling",
+   "page": "https://filmfreeway.com/POVCallforEntries",
+   "logo": "logos/pov.png"
+  },
+  {
+   "id": "riverrun",
+   "name": "RiverRun International Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/riverrun",
+   "logo": "logos/riverrun.png"
+  },
+  {
+   "id": "rooftop-films",
+   "name": "Rooftop Films",
+   "entry": "rolling",
+   "page": "https://rooftopfilms.com/submit",
+   "logo": "logos/rooftop-films.png"
+  },
+  {
+   "id": "san-sebastian",
+   "name": "San Sebastian Film Festival",
+   "entry": "open",
+   "page": "https://sansebastianfestival.com",
+   "logo": "logos/san-sebastian.png"
+  },
+  {
+   "id": "santa-barbara",
+   "name": "Santa Barbara International Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/SBIFF",
+   "logo": "logos/santa-barbara.png"
+  },
+  {
+   "id": "sarajevo",
+   "name": "Sarajevo Film Festival",
+   "entry": "open",
+   "page": "https://www.sff.ba/",
+   "logo": "logos/sarajevo.png"
+  },
+  {
+   "id": "sarasota",
+   "name": "Sarasota Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/SarasotaFilmFestival",
+   "logo": "logos/sarasota.png"
+  },
+  {
+   "id": "seattle",
+   "name": "Seattle International Film Festival (SIFF)",
+   "entry": "open",
+   "page": "https://filmfreeway.com/SIFF",
+   "logo": "logos/seattle.png"
+  },
+  {
+   "id": "sffilm",
+   "name": "SFFILM (San Francisco)",
+   "entry": "open",
+   "page": "https://filmfreeway.com/SFFILMFestival",
+   "logo": "logos/sffilm.png"
+  },
+  {
+   "id": "sidewalk",
+   "name": "Sidewalk Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/sidewalkfilm",
+   "logo": "logos/sidewalk.png"
+  },
+  {
+   "id": "slamdance",
+   "name": "Slamdance",
+   "entry": "open",
+   "page": "https://filmfreeway.com/SlamdanceFilmFestival",
+   "logo": "logos/slamdance.png"
+  },
+  {
+   "id": "sundance",
+   "name": "Sundance",
+   "entry": "open",
+   "page": "https://filmfreeway.com/Sundance",
+   "logo": "logos/sundance.png"
+  },
+  {
+   "id": "sxsw",
+   "name": "SXSW",
+   "entry": "open",
+   "page": "https://www.sxsw.com/apply/film-submissions/",
+   "logo": "logos/sxsw.png"
+  },
+  {
+   "id": "tauron-american-in-poland",
+   "name": "TAURON - American Film Festival in Poland",
+   "entry": "open",
+   "page": "https://americanfilmfestival.pl",
+   "logo": "logos/tauron-american-in-poland.png"
+  },
+  {
+   "id": "tiff",
+   "name": "TIFF (Toronto)",
+   "entry": "open",
+   "page": "https://tiff.net/submissions",
+   "logo": "logos/tiff.png"
+  },
+  {
+   "id": "tokyo",
+   "name": "Tokyo International Film Festival",
+   "entry": "open",
+   "page": "https://tiff-jp.net",
+   "logo": "logos/tokyo.png"
+  },
+  {
+   "id": "tribeca",
+   "name": "Tribeca Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/TribecaFestival",
+   "logo": "logos/tribeca.png"
+  },
+  {
+   "id": "trieste",
+   "name": "Trieste Film Festival",
+   "entry": "open",
+   "page": "https://vp.eventival.com/trieste/2027",
+   "logo": "logos/trieste.png"
+  },
+  {
+   "id": "venice",
+   "name": "Venice Film Festival (Biennale Cinema)",
+   "entry": "open",
+   "page": "https://labiennale.org/en/cinema",
+   "logo": "logos/venice.png"
+  },
+  {
+   "id": "voyage-in-time-andong",
+   "name": "Voyage in Time Film Fest — Andong",
+   "entry": "open",
+   "page": "https://filmfreeway.com/VoyageinTimeFilmFestival-VITFF",
+   "logo": "logos/voyage-in-time-andong.png"
+  },
+  {
+   "id": "voyage-in-time-fest",
+   "name": "Voyage in Time Film Fest — New York",
+   "entry": "open",
+   "page": "https://filmfreeway.com/VoyageinTimeFilmFest",
+   "logo": "logos/voyage-in-time-fest.png"
+  },
+  {
+   "id": "voyage-in-time-fest-tokyo",
+   "name": "Voyage in Time Film Fest — Tokyo",
+   "entry": "open",
+   "page": "https://filmfreeway.com/VoyageinTime",
+   "logo": "logos/voyage-in-time-fest-tokyo.png"
+  },
+  {
+   "id": "voyage-in-time-kyoto",
+   "name": "Voyage in Time Film Fest — Kyoto",
+   "entry": "open",
+   "page": "https://filmfreeway.com/VoyageinTimeVITFF",
+   "logo": "logos/voyage-in-time-kyoto.png"
+  },
+  {
+   "id": "voyage-in-time-paris",
+   "name": "Voyage in Time Film Fest — Paris",
+   "entry": "open",
+   "page": "https://filmfreeway.com/VoyageinTimeFilmFestival",
+   "logo": "logos/voyage-in-time-paris.png"
+  }
+ ],
+ "deadlines": [
+  {
+   "festival": "sundance",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-21",
+    "to": "2026-09-21",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline Features"
+  },
+  {
+   "festival": "riverrun",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-28",
+    "to": "2026-09-28",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Sept 28, 2026"
+  },
+  {
+   "festival": "ann-arbor",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Sept 30, 2026"
+  },
+  {
+   "festival": "levante-mostra-del-di-taranto",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Sept 30, 2026"
+  },
+  {
+   "festival": "sarasota",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Earlybird Deadline"
+  },
+  {
+   "festival": "trieste",
+   "cycle": 2027,
+   "ordinal": 38,
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 0,
+    "currency": "EUR",
+    "note": "no entry fee"
+   },
+   "fee_unknown": false
+  },
+  {
+   "festival": "voyage-in-time-fest",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Earlybird Deadline"
+  },
+  {
+   "festival": "ashland-independent",
+   "cycle": 2027,
+   "ordinal": 26,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-01",
+    "to": "2026-10-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Early Bird"
+  },
+  {
+   "festival": "phoenix",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-01",
+    "to": "2026-10-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Oct 1, 2026"
+  },
+  {
+   "festival": "sxsw",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-01",
+    "to": "2026-10-01",
+    "approximate": false,
+    "time": "23:59",
+    "tz": "PT"
+   },
+   "fee": {
+    "amount": 125,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline; narrative or documentary feature"
+  },
+  {
+   "festival": "sxsw",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-01",
+    "to": "2026-10-01",
+    "approximate": false,
+    "time": "23:59",
+    "tz": "PT"
+   },
+   "fee": {
+    "amount": 90,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline; narrative, documentary or animated short"
+  },
+  {
+   "festival": "slamdance",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-06",
+    "to": "2026-10-06",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Extended Sept 15-Oct 6, 2026"
+  },
+  {
+   "festival": "portland",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-07",
+    "to": "2026-10-07",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Oct 7, 2026"
+  },
+  {
+   "festival": "voyage-in-time-andong",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-15",
+    "to": "2026-10-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
+  },
+  {
+   "festival": "atlanta",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-16",
+    "to": "2026-10-16",
+    "approximate": false
+   },
+   "fee_unknown": true
+  },
+  {
+   "festival": "ashland-independent",
+   "cycle": 2027,
+   "ordinal": 26,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-19",
+    "to": "2026-10-19",
+    "approximate": false
+   },
+   "fee_unknown": true
+  },
+  {
+   "festival": "berlinale",
+   "cycle": 2027,
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-21",
+    "to": "2026-10-21",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 175,
+    "currency": "EUR"
+   },
+   "fee_unknown": false
+  },
+  {
+   "festival": "santa-barbara",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-30",
+    "to": "2026-10-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Oct 30, 2026 (late/SB filmmaker)"
+  },
+  {
+   "festival": "ficci-cartagena",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-31",
+    "to": "2026-10-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "16% fee discount if submitted by this date"
+  },
+  {
+   "festival": "berlinale",
+   "cycle": 2027,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-04",
+    "to": "2026-11-04",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 75,
+    "currency": "EUR"
+   },
+   "fee_unknown": false
+  },
+  {
+   "festival": "atlanta",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-06",
+    "to": "2026-11-06",
+    "approximate": false
+   },
+   "fee_unknown": true
+  },
+  {
+   "festival": "voyage-in-time-andong",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-07",
+    "to": "2026-11-07",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Extended Deadline"
+  },
+  {
+   "festival": "malaga",
+   "cycle": 2027,
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-08",
+    "to": "2026-11-08",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Shorts/docs: Nov 8, 2026"
+  },
+  {
+   "festival": "portland",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-18",
+    "to": "2026-11-18",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Oct 21 / Final Nov 18, 2026"
+  },
+  {
+   "festival": "ashland-independent",
+   "cycle": 2027,
+   "ordinal": 26,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-23",
+    "to": "2026-11-23",
+    "approximate": false
+   },
+   "fee_unknown": true
+  },
+  {
+   "festival": "ficci-cartagena",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-29",
+    "to": "2026-11-29",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Nov 29, 2026"
+  },
+  {
+   "festival": "berlin-gate",
+   "cycle": 2026,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-30",
+    "to": "2026-11-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Nov 30, 2026"
+  },
+  {
+   "festival": "sarasota",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-30",
+    "to": "2026-11-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
+  },
+  {
+   "festival": "voyage-in-time-fest",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-30",
+    "to": "2026-11-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
+  },
+  {
+   "festival": "voyage-in-time-fest-tokyo",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-30",
+    "to": "2026-11-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Earlybird Deadline"
+  },
+  {
+   "festival": "voyage-in-time-kyoto",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-30",
+    "to": "2026-11-30",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Earlybird Deadline"
+  },
+  {
+   "festival": "ashland-independent",
+   "cycle": 2027,
+   "ordinal": 26,
+   "categories": [
+    "other"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-01",
+    "to": "2026-12-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Local Lens strand, Southern Oregon filmmakers only"
+  },
+  {
+   "festival": "malaga",
+   "cycle": 2027,
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-02",
+    "to": "2026-12-02",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Features: Dec 2, 2026"
+  },
+  {
+   "festival": "santa-barbara",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-02",
+    "to": "2026-12-02",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Final: Dec 2, 2026"
+  },
+  {
+   "festival": "sffilm",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-02",
+    "to": "2026-12-02",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Shorts final Nov 11 / Features final Dec 2, 2026"
+  },
+  {
+   "festival": "riverrun",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-07",
+    "to": "2026-12-07",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late: Nov 2 / Final: Dec 7, 2026"
+  },
+  {
+   "festival": "phoenix",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-10",
+    "to": "2026-12-10",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Nov 5 / Extended Dec 10, 2026"
+  },
+  {
+   "festival": "cleveland",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-15",
+    "to": "2026-12-15",
+    "approximate": true
+   },
+   "fee_unknown": true,
+   "note": "Accepting through ~Dec 15, 2026"
+  },
+  {
+   "festival": "sarasota",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-31",
+    "to": "2026-12-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
+  },
+  {
+   "festival": "voyage-in-time-paris",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-31",
+    "to": "2026-12-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
+  },
+  {
+   "festival": "seattle",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-07",
+    "to": "2027-01-07",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Accepting until Jan 7, 2027"
+  },
+  {
+   "festival": "voyage-in-time-fest",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-15",
+    "to": "2027-01-15",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
+  },
+  {
+   "festival": "milwaukee",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-01",
+    "to": "2027-02-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "closes Feb 1, 2027"
+  },
+  {
+   "festival": "voyage-in-time-fest",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-10",
+    "to": "2027-02-10",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Extended Deadline"
+  },
+  {
+   "festival": "sarasota",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-19",
+    "to": "2027-02-19",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Final Deadline"
+  },
+  {
+   "festival": "mpumalanga",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-20",
+    "to": "2027-02-20",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Feb 20, 2027"
+  },
+  {
+   "festival": "voyage-in-time-fest-tokyo",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-28",
+    "to": "2027-02-28",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
+  },
+  {
+   "festival": "voyage-in-time-kyoto",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-28",
+    "to": "2027-02-28",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Regular Deadline"
+  },
+  {
+   "festival": "voyage-in-time-paris",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-28",
+    "to": "2027-02-28",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
+  },
+  {
+   "festival": "brooklyn",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-13",
+    "to": "2027-03-13",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Closes Mar 13, 2027 (notify by May 4, 2027)"
+  },
+  {
+   "festival": "cannes",
+   "cycle": 2027,
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "month",
+    "from": "2027-03-10",
+    "to": "2027-03-20",
+    "approximate": true,
+    "label": "~mid-March 2027"
+   },
+   "fee_unknown": false
+  },
+  {
+   "festival": "voyage-in-time-paris",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-31",
+    "to": "2027-03-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Extended Deadline"
+  },
+  {
+   "festival": "voyage-in-time-fest-tokyo",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-05-31",
+    "to": "2027-05-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
+  },
+  {
+   "festival": "voyage-in-time-kyoto",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-05-31",
+    "to": "2027-05-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Late Deadline"
+  },
+  {
+   "festival": "new-york-screening",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-07-01",
+    "to": "2027-07-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Jul 1, 2027"
+  },
+  {
+   "festival": "voyage-in-time-fest-tokyo",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-08-31",
+    "to": "2027-08-31",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Extended Deadline"
+  },
+  {
+   "festival": "voyage-in-time-kyoto",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [],
+   "closes": {
+    "precision": "day",
+    "from": "2027-09-01",
+    "to": "2027-09-01",
+    "approximate": false
+   },
+   "fee_unknown": true,
+   "note": "Extended Deadline"
+  }
+ ]
+}
