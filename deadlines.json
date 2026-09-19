@@ -3,6 +3,149 @@
  "generated_on": "2026-09-18",
  "festivals": [
   {
+   "id": "academy-canadian-cinema",
+   "name": "Canadian Screen Awards [academy of Canadian Cinema & Television]",
+   "entry": "open",
+   "page": "https://www.academy.ca",
+   "website": "https://www.academy.ca",
+   "portal": "own",
+   "country": "Canada"
+  },
+  {
+   "id": "afi",
+   "name": "AFI Fest",
+   "entry": "open",
+   "page": "https://fest.afi.com/",
+   "website": "https://fest.afi.com/",
+   "portal": "own",
+   "region": "California",
+   "country": "United States"
+  },
+  {
+   "id": "alcine-cine-alcala",
+   "name": "Alcine – Festival de Cine de Alcalá de Henares",
+   "entry": "open",
+   "page": "https://www.alcine.org",
+   "website": "https://www.alcine.org",
+   "portal": "own",
+   "country": "Spain"
+  },
+  {
+   "id": "alexandria",
+   "name": "Alexandria Short Film Festival",
+   "entry": "open",
+   "page": "https://www.alex-sff.com",
+   "website": "https://www.alex-sff.com",
+   "portal": "own",
+   "country": "Egypt"
+  },
+  {
+   "id": "amdocs-american-documentary",
+   "name": "AMDOCS – American Documentary and Animation Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/AmericanDocumentaryFilmFestivalandFilmFund",
+   "submit": "https://filmfreeway.com/AmericanDocumentaryFilmFestivalandFilmFund",
+   "website": "https://www.amdocfilmfest.com",
+   "portal": "filmfreeway",
+   "region": "California",
+   "country": "United States"
+  },
+  {
+   "id": "american-black",
+   "name": "American Black Film Festival",
+   "entry": "open",
+   "page": "https://www.abff.com",
+   "website": "https://www.abff.com",
+   "portal": "own",
+   "region": "Florida",
+   "country": "United States"
+  },
+  {
+   "id": "anca-animation",
+   "name": "Fest Anča International Animation Festival",
+   "entry": "open",
+   "page": "https://www.festanca.sk/en/",
+   "website": "https://www.festanca.sk/en/",
+   "portal": "own",
+   "country": "Slovakia"
+  },
+  {
+   "id": "angeles-asian-pacific",
+   "name": "Los Angeles Asian Pacific Film Festival",
+   "entry": "open",
+   "page": "https://www.vcmedia.org/festival",
+   "website": "https://www.vcmedia.org/festival",
+   "portal": "own",
+   "region": "California",
+   "country": "United States"
+  },
+  {
+   "id": "angeles-latino",
+   "name": "Los Angeles Latino International Film Festival (LALIFF)",
+   "entry": "open",
+   "page": "https://www.laliff.org",
+   "website": "https://www.laliff.org",
+   "portal": "own",
+   "city": "Los Angeles",
+   "region": "CA",
+   "country": "United States"
+  },
+  {
+   "id": "anifilm-animated",
+   "name": "Anifilm – International Festival of Animated Films",
+   "entry": "open",
+   "page": "https://www.anifilm.cz",
+   "website": "https://www.anifilm.cz",
+   "portal": "own",
+   "country": "Czech Republic"
+  },
+  {
+   "id": "anima-brussels-animation",
+   "name": "Anima – the Brussels Animation Film Festival",
+   "entry": "open",
+   "page": "https://www.animafestival.be/en",
+   "website": "https://www.animafestival.be/en",
+   "portal": "own",
+   "country": "Belgium"
+  },
+  {
+   "id": "animation-dingle",
+   "name": "Animation Dingle",
+   "entry": "open",
+   "page": "https://filmfreeway.com/AnimationDingle",
+   "submit": "https://filmfreeway.com/AnimationDingle",
+   "website": "https://www.animationdingle.com",
+   "portal": "filmfreeway",
+   "country": "Ireland"
+  },
+  {
+   "id": "animator-animated",
+   "name": "Animator International Animated Film Festival",
+   "entry": "open",
+   "page": "https://www.animator-festival.com",
+   "website": "https://www.animator-festival.com",
+   "portal": "own",
+   "country": "Poland"
+  },
+  {
+   "id": "animayo-summit-animation",
+   "name": "Animayo ; Summit & International Film Festival of Animation, Visual Effects and Video Games",
+   "entry": "open",
+   "page": "https://www.animayo.com",
+   "website": "https://www.animayo.com",
+   "portal": "own",
+   "country": "Spain"
+  },
+  {
+   "id": "animest-animation",
+   "name": "Animest International Animation Film Festival",
+   "entry": "open",
+   "page": "https://www.animest.ro",
+   "website": "https://www.animest.ro",
+   "portal": "own",
+   "country": "Romania"
+  },
+  {
    "id": "ann-arbor",
    "name": "Ann Arbor Film Festival",
    "entry": "open",
@@ -16,6 +159,15 @@
    "logo": "logos/ann-arbor.png"
   },
   {
+   "id": "annecy-animation",
+   "name": "Annecy International Animation Film Festival",
+   "entry": "open",
+   "page": "https://www.annecyfestival.com/en",
+   "website": "https://www.annecyfestival.com/en",
+   "portal": "own",
+   "country": "France"
+  },
+  {
    "id": "ashland-independent",
    "name": "Ashland Independent Film Festival",
    "entry": "open",
@@ -27,6 +179,27 @@
    "region": "OR",
    "country": "United States",
    "logo": "logos/ashland-independent.png"
+  },
+  {
+   "id": "aspen",
+   "name": "Aspen Shorts Fest",
+   "entry": "open",
+   "page": "https://filmfreeway.com/AspenShortsfest",
+   "submit": "https://filmfreeway.com/AspenShortsfest",
+   "website": "https://www.aspenfilm.org",
+   "portal": "filmfreeway",
+   "region": "Colorado",
+   "country": "United States"
+  },
+  {
+   "id": "athens-video",
+   "name": "Athens International Film + Video Festival",
+   "entry": "open",
+   "page": "https://www.athensfest.org",
+   "website": "https://www.athensfest.org",
+   "portal": "own",
+   "region": "Ohio",
+   "country": "United States"
   },
   {
    "id": "atlanta",
@@ -66,6 +239,44 @@
    "logo": "logos/bafici.png"
   },
   {
+   "id": "bafta",
+   "name": "British Academy of Film and Television Arts [bafta]",
+   "entry": "open",
+   "page": "https://www.bafta.org",
+   "website": "https://www.bafta.org",
+   "portal": "own",
+   "country": "United Kingdom"
+  },
+  {
+   "id": "bali",
+   "name": "Bali International Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/BaliInternationalFilmFestival",
+   "submit": "https://filmfreeway.com/BaliInternationalFilmFestival",
+   "website": "https://www.balinale.com",
+   "portal": "filmfreeway",
+   "country": "Indonesia"
+  },
+  {
+   "id": "beirut",
+   "name": "Beirut Shorts International Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/BeirutShortsInternationalFilmFestival",
+   "submit": "https://filmfreeway.com/BeirutShortsInternationalFilmFestival",
+   "website": "https://www.beirutshorts.com",
+   "portal": "filmfreeway",
+   "country": "Lebanon"
+  },
+  {
+   "id": "bengaluru",
+   "name": "Bengaluru International Short Film Festival",
+   "entry": "open",
+   "page": "https://www.bisff.in",
+   "website": "https://www.bisff.in",
+   "portal": "own",
+   "country": "India"
+  },
+  {
    "id": "berlin-gate",
    "name": "Berlin Gate International Film Festival (BGIFF)",
    "entry": "open",
@@ -88,6 +299,55 @@
    "logo": "logos/berlinale.png"
   },
   {
+   "id": "big-sky-documentary",
+   "name": "Big Sky Documentary Film Festival",
+   "entry": "open",
+   "page": "https://www.bigskyfilmfest.org",
+   "website": "https://www.bigskyfilmfest.org",
+   "portal": "own",
+   "region": "Montana",
+   "country": "United States"
+  },
+  {
+   "id": "bitbang-animation",
+   "name": "Bitbang International Animation Festival",
+   "entry": "open",
+   "page": "https://www.bitbangclub.com",
+   "website": "https://www.bitbangclub.com",
+   "portal": "own",
+   "country": "Argentina"
+  },
+  {
+   "id": "blackstar",
+   "name": "Blackstar Film Festival",
+   "entry": "open",
+   "page": "https://www.blackstarfest.org",
+   "website": "https://www.blackstarfest.org",
+   "portal": "own",
+   "region": "Pennsylvania",
+   "country": "United States"
+  },
+  {
+   "id": "bogoshorts-bogota",
+   "name": "Bogoshorts – Bogotá Short Film Festival",
+   "entry": "open",
+   "page": "https://www.bogoshorts.com",
+   "website": "https://www.bogoshorts.com",
+   "portal": "own",
+   "country": "Colombia"
+  },
+  {
+   "id": "bronzelens",
+   "name": "Bronzelens Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/BronzeLensFilmFestival",
+   "submit": "https://filmfreeway.com/BronzeLensFilmFestival",
+   "website": "https://www.bronzelens.com",
+   "portal": "filmfreeway",
+   "region": "Georgia",
+   "country": "United States"
+  },
+  {
    "id": "brooklyn",
    "name": "Brooklyn Film Festival",
    "entry": "open",
@@ -101,6 +361,24 @@
    "logo": "logos/brooklyn.png"
   },
   {
+   "id": "brussels",
+   "name": "Brussels Short Film Festival",
+   "entry": "open",
+   "page": "https://www.bsff.be",
+   "website": "https://www.bsff.be",
+   "portal": "own",
+   "country": "Belgium"
+  },
+  {
+   "id": "bucheon-animation",
+   "name": "Bucheon International Animation Festival",
+   "entry": "open",
+   "page": "https://www.bifan.kr/",
+   "website": "https://www.bifan.kr/",
+   "portal": "own",
+   "country": "South Korea"
+  },
+  {
    "id": "busan",
    "name": "Busan International Film Festival",
    "entry": "open",
@@ -110,6 +388,43 @@
    "city": "Busan",
    "country": "South Korea",
    "logo": "logos/busan.png"
+  },
+  {
+   "id": "busan-10",
+   "name": "Busan International Short Film Festival",
+   "entry": "open",
+   "page": "https://www.bisff.org",
+   "website": "https://www.bisff.org",
+   "portal": "own",
+   "country": "South Korea"
+  },
+  {
+   "id": "cairo",
+   "name": "Cairo International Film Festival",
+   "entry": "open",
+   "page": "https://www.ciff.org.eg",
+   "website": "https://www.ciff.org.eg",
+   "portal": "own",
+   "country": "Egypt"
+  },
+  {
+   "id": "calgary",
+   "name": "Calgary International Film Festival",
+   "entry": "open",
+   "page": "https://www.ciffcalgary.ca",
+   "website": "https://www.ciffcalgary.ca",
+   "portal": "own",
+   "country": "Canada"
+  },
+  {
+   "id": "camden",
+   "name": "Camden International Film Festival",
+   "entry": "open",
+   "page": "https://pointsnorthinstitute.org/ciff/",
+   "website": "https://pointsnorthinstitute.org/ciff/",
+   "portal": "own",
+   "region": "Maine",
+   "country": "United States"
   },
   {
    "id": "cannes",
@@ -123,6 +438,26 @@
    "logo": "logos/cannes.png"
   },
   {
+   "id": "chicago",
+   "name": "Chicago International Film Festival",
+   "entry": "open",
+   "page": "https://www.chicagofilmfestival.com",
+   "website": "https://www.chicagofilmfestival.com",
+   "portal": "own",
+   "region": "Illinois",
+   "country": "United States"
+  },
+  {
+   "id": "chicago-childrens",
+   "name": "Chicago International Children’s Film Festival",
+   "entry": "open",
+   "page": "https://www.facets.org/cicff",
+   "website": "https://www.facets.org/cicff",
+   "portal": "own",
+   "region": "Illinois",
+   "country": "United States"
+  },
+  {
    "id": "chicago-underground",
    "name": "Chicago Underground Film Festival",
    "entry": "open",
@@ -134,6 +469,44 @@
    "region": "IL",
    "country": "United States",
    "logo": "logos/chicago-underground.png"
+  },
+  {
+   "id": "chilemonos-animation",
+   "name": "Chilemonos International Animation Festival",
+   "entry": "open",
+   "page": "https://www.chilemonos.com",
+   "website": "https://www.chilemonos.com",
+   "portal": "own",
+   "country": "Chile"
+  },
+  {
+   "id": "cinanima-animated-espinho",
+   "name": "Cinanima – International Animated Film Festival of Espinho",
+   "entry": "open",
+   "page": "https://filmfreeway.com/CINANIMA_76",
+   "submit": "https://filmfreeway.com/CINANIMA_76",
+   "website": "https://www.cinanima.pt",
+   "portal": "filmfreeway",
+   "country": "Portugal"
+  },
+  {
+   "id": "cinequest",
+   "name": "Cinequest Film Festival",
+   "entry": "open",
+   "page": "https://www.cinequest.org",
+   "website": "https://www.cinequest.org",
+   "portal": "own",
+   "region": "California",
+   "country": "United States"
+  },
+  {
+   "id": "clermont-ferrand",
+   "name": "Clermont-ferrand International Short Film Festival",
+   "entry": "open",
+   "page": "https://www.clermont-filmfest.org",
+   "website": "https://www.clermont-filmfest.org",
+   "portal": "own",
+   "country": "France"
   },
   {
    "id": "cleveland",
@@ -171,6 +544,25 @@
    "region": "NC",
    "country": "United States",
    "logo": "logos/cucalorus.png"
+  },
+  {
+   "id": "curtas-vila-doconde",
+   "name": "Curtas Vila Doconde – International Film Festival",
+   "entry": "open",
+   "page": "https://www.festival.curtas.pt",
+   "website": "https://www.festival.curtas.pt",
+   "portal": "own",
+   "country": "Portugal"
+  },
+  {
+   "id": "dallas",
+   "name": "Dallas International Film Festival",
+   "entry": "open",
+   "page": "https://www.dallasfilm.org/diff",
+   "website": "https://www.dallasfilm.org/diff",
+   "portal": "own",
+   "region": "Texas",
+   "country": "United States"
   },
   {
    "id": "deadcenter",
@@ -233,6 +625,90 @@
    "logo": "logos/directors-notes.png"
   },
   {
+   "id": "doc-edge",
+   "name": "DOC Edge Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/DocEdgeFestival",
+   "submit": "https://filmfreeway.com/DocEdgeFestival",
+   "website": "https://www.docedge.nz",
+   "portal": "filmfreeway",
+   "country": "New Zealand"
+  },
+  {
+   "id": "doc-nyc",
+   "name": "DOC NYC",
+   "entry": "open",
+   "page": "https://filmfreeway.com/DOCNYCShortListsandWinnersCircle",
+   "submit": "https://filmfreeway.com/DOCNYCShortListsandWinnersCircle",
+   "website": "https://www.docnyc.net",
+   "portal": "filmfreeway",
+   "region": "New York",
+   "country": "United States"
+  },
+  {
+   "id": "docaviv-documentary",
+   "name": "Docaviv International Documentary Film Festival",
+   "entry": "open",
+   "page": "https://www.docaviv.co.il",
+   "website": "https://www.docaviv.co.il",
+   "portal": "own",
+   "country": "Israel"
+  },
+  {
+   "id": "doclisboa",
+   "name": "Doclisboa International Film Festival",
+   "entry": "open",
+   "page": "https://www.doclisboa.org",
+   "website": "https://www.doclisboa.org",
+   "portal": "own",
+   "country": "Portugal"
+  },
+  {
+   "id": "documentaries-bilbao-zinebi",
+   "name": "International Festival of Documentaries and Short Films of Bilbao – ZINEBI",
+   "entry": "open",
+   "page": "https://zinebi.eus",
+   "website": "https://zinebi.eus",
+   "portal": "own",
+   "country": "Spain"
+  },
+  {
+   "id": "documentary-kerala",
+   "name": "International Documentary and Short Film Festival of Kerala",
+   "entry": "open",
+   "page": "https://idsffk.in/",
+   "website": "https://idsffk.in/",
+   "portal": "own",
+   "country": "India"
+  },
+  {
+   "id": "documentary-sheffield",
+   "name": "International Documentary Festival Sheffield",
+   "entry": "open",
+   "page": "https://www.sheffdocfest.com",
+   "website": "https://www.sheffdocfest.com",
+   "portal": "own",
+   "country": "United Kingdom"
+  },
+  {
+   "id": "drama",
+   "name": "Drama International Short Film Festival",
+   "entry": "open",
+   "page": "https://www.dramafilmfestival.gr/en/",
+   "website": "https://www.dramafilmfestival.gr/en/",
+   "portal": "own",
+   "country": "Greece"
+  },
+  {
+   "id": "durban",
+   "name": "Durban International Film Festival",
+   "entry": "open",
+   "page": "https://www.ccadiff.ukzn.ac.za",
+   "website": "https://www.ccadiff.ukzn.ac.za",
+   "portal": "own",
+   "country": "South Africa"
+  },
+  {
    "id": "edinburgh",
    "name": "Edinburgh International Film Festival",
    "entry": "open",
@@ -243,6 +719,42 @@
    "city": "Edinburgh",
    "country": "Scotland",
    "logo": "logos/edinburgh.png"
+  },
+  {
+   "id": "edmonton",
+   "name": "Edmonton International Film Festival",
+   "entry": "open",
+   "page": "https://www.edmontonfilmfest.com",
+   "website": "https://www.edmontonfilmfest.com",
+   "portal": "own",
+   "country": "Canada"
+  },
+  {
+   "id": "energacamerimage",
+   "name": "Energacamerimage International Film Festival",
+   "entry": "open",
+   "page": "https://www.camerimage.pl",
+   "website": "https://www.camerimage.pl",
+   "portal": "own",
+   "country": "Poland"
+  },
+  {
+   "id": "fantoche-animation",
+   "name": "Fantoche International Animation Film Festival",
+   "entry": "open",
+   "page": "https://www.fantoche.ch/en",
+   "website": "https://www.fantoche.ch/en",
+   "portal": "own",
+   "country": "Switzerland"
+  },
+  {
+   "id": "fespaco-pan-african",
+   "name": "Fespaco - Pan African Film and Television Festival of Ouagadougou",
+   "entry": "open",
+   "page": "https://fespaco.bf/",
+   "website": "https://fespaco.bf/",
+   "portal": "own",
+   "country": "Burkina Faso"
   },
   {
    "id": "fest-new-directors-new-films",
@@ -279,6 +791,35 @@
    "logo": "logos/ficvaldivia.png"
   },
   {
+   "id": "ficx-gijon",
+   "name": "Ficx – Gijon International Film Festival",
+   "entry": "open",
+   "page": "https://www.gijonfilmfestival.com",
+   "website": "https://www.gijonfilmfestival.com",
+   "portal": "own",
+   "country": "Spain"
+  },
+  {
+   "id": "flickerfest",
+   "name": "Flickerfest International Short Film Festival",
+   "entry": "open",
+   "page": "https://www.flickerfest.com.au",
+   "website": "https://www.flickerfest.com.au",
+   "portal": "own",
+   "country": "Australia"
+  },
+  {
+   "id": "florida",
+   "name": "Florida Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/FloridaFilmFestival",
+   "submit": "https://filmfreeway.com/FloridaFilmFestival",
+   "website": "https://www.floridafilmfestival.com",
+   "portal": "filmfreeway",
+   "region": "Florida",
+   "country": "United States"
+  },
+  {
    "id": "foyle",
    "name": "Foyle Film Festival",
    "entry": "open",
@@ -291,6 +832,44 @@
    "logo": "logos/foyle.png"
   },
   {
+   "id": "french-academy-cinema",
+   "name": "Académie des César [french Academy of Cinema]",
+   "entry": "open",
+   "page": "https://www.academie-cinema.org",
+   "website": "https://www.academie-cinema.org",
+   "portal": "own",
+   "country": "France"
+  },
+  {
+   "id": "friss-hus-budapest",
+   "name": "Friss Hús Budapest International Short Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/FrissHus",
+   "submit": "https://filmfreeway.com/FrissHus",
+   "website": "https://www.frisshusbudapest.com/en",
+   "portal": "filmfreeway",
+   "country": "Hungary"
+  },
+  {
+   "id": "full-frame-documentary",
+   "name": "Full Frame Documentary Film Festival",
+   "entry": "open",
+   "page": "https://www.fullframefest.org",
+   "website": "https://www.fullframefest.org",
+   "portal": "own",
+   "region": "North Carolina",
+   "country": "United States"
+  },
+  {
+   "id": "galway-fleadh",
+   "name": "Galway Film Fleadh",
+   "entry": "open",
+   "page": "https://www.galwayfilmfleadh.com",
+   "website": "https://www.galwayfilmfleadh.com",
+   "portal": "own",
+   "country": "Ireland"
+  },
+  {
    "id": "george-lindsey-una",
    "name": "George Lindsey UNA Film Festival",
    "entry": "open",
@@ -300,6 +879,89 @@
    "city": "Florence",
    "country": "Alabama",
    "logo": "logos/george-lindsey-una.png"
+  },
+  {
+   "id": "german-award",
+   "name": "German Short Film Award",
+   "entry": "open",
+   "page": "https://min.)www.deutscher-kurzfilmpreis.de",
+   "website": "https://min.)www.deutscher-kurzfilmpreis.de",
+   "portal": "own",
+   "country": "Germany"
+  },
+  {
+   "id": "goshort-nijmegen",
+   "name": "Goshort International Short Film Festival Nijmegen",
+   "entry": "open",
+   "page": "https://www.goshort.nl",
+   "website": "https://www.goshort.nl",
+   "portal": "own",
+   "country": "The Netherlands"
+  },
+  {
+   "id": "goteborg",
+   "name": "Göteborg Film Festival",
+   "entry": "open",
+   "page": "https://www.goteborgfilmfestival.se",
+   "website": "https://www.goteborgfilmfestival.se",
+   "portal": "own",
+   "country": "Sweden"
+  },
+  {
+   "id": "goya-awards",
+   "name": "Academia de las Artes y las Ciencias Cinematográficas de España [goya Awards]",
+   "entry": "open",
+   "page": "https://www.premiosgoya.com/",
+   "website": "https://www.premiosgoya.com/",
+   "portal": "own",
+   "country": "Spain"
+  },
+  {
+   "id": "guadalajara",
+   "name": "Guadalajara International Film Festival",
+   "entry": "open",
+   "page": "https://www.ficg.mx",
+   "website": "https://www.ficg.mx",
+   "portal": "own",
+   "country": "Mexico"
+  },
+  {
+   "id": "guanajuato",
+   "name": "Guanajuato International Film Festival",
+   "entry": "open",
+   "page": "https://www.giff.mx",
+   "website": "https://www.giff.mx",
+   "portal": "own",
+   "country": "Mexico"
+  },
+  {
+   "id": "haifa",
+   "name": "Haifa International Film Festival",
+   "entry": "open",
+   "page": "https://www.haifaff.co.il",
+   "website": "https://www.haifaff.co.il",
+   "portal": "own",
+   "country": "Israel"
+  },
+  {
+   "id": "hamptons",
+   "name": "Hamptons International Film Festival",
+   "entry": "open",
+   "page": "https://www.hamptonsfilmfest.org",
+   "website": "https://www.hamptonsfilmfest.org",
+   "portal": "own",
+   "region": "New York",
+   "country": "United States"
+  },
+  {
+   "id": "hawaii",
+   "name": "Hawaii International Film Festival",
+   "entry": "open",
+   "page": "https://www.hiff.org",
+   "website": "https://www.hiff.org",
+   "portal": "own",
+   "region": "Hawaii",
+   "country": "United States"
   },
   {
    "id": "heartland",
@@ -315,6 +977,72 @@
    "logo": "logos/heartland.png"
   },
   {
+   "id": "hiro-shima-animation",
+   "name": "Hiro Shima Animation Season",
+   "entry": "open",
+   "page": "https://www.animation.hiroshimafest.org/en",
+   "website": "https://www.animation.hiroshimafest.org/en",
+   "portal": "own",
+   "country": "Japan"
+  },
+  {
+   "id": "hollyshorts",
+   "name": "Hollyshorts Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/HollyShortsLondon",
+   "submit": "https://filmfreeway.com/HollyShortsLondon",
+   "website": "https://www.hollyshorts.com",
+   "portal": "filmfreeway",
+   "region": "California",
+   "country": "United States"
+  },
+  {
+   "id": "hong-kong",
+   "name": "The Hong Kong International Film Festival",
+   "entry": "open",
+   "page": "https://www.hkiff.org.hk",
+   "website": "https://www.hkiff.org.hk",
+   "portal": "own",
+   "country": "Hong Kong"
+  },
+  {
+   "id": "hot-docs-canadian",
+   "name": "Hot Docs Canadian International Documentary Festival",
+   "entry": "open",
+   "page": "https://www.hotdocs.ca",
+   "website": "https://www.hotdocs.ca",
+   "portal": "own",
+   "country": "Canada"
+  },
+  {
+   "id": "hot-springs-documentary",
+   "name": "Hot Springs Documentary Film Festival",
+   "entry": "open",
+   "page": "https://www.hsdfi.org",
+   "website": "https://www.hsdfi.org",
+   "portal": "own",
+   "region": "Arkansas",
+   "country": "United States"
+  },
+  {
+   "id": "huesca",
+   "name": "Huesca International Film Festival",
+   "entry": "open",
+   "page": "https://www.huesca-filmfestival.com",
+   "website": "https://www.huesca-filmfestival.com",
+   "portal": "own",
+   "country": "Spain"
+  },
+  {
+   "id": "idfa-documentary-amsterdam",
+   "name": "IDFA – International Documentary Film Festival Amsterdam",
+   "entry": "open",
+   "page": "https://www.idfa.nl",
+   "website": "https://www.idfa.nl",
+   "portal": "own",
+   "country": "Netherlands"
+  },
+  {
    "id": "iffr-rotterdam",
    "name": "IFFR Rotterdam",
    "entry": "open",
@@ -326,6 +1054,125 @@
    "logo": "logos/iffr-rotterdam.png"
   },
   {
+   "id": "imaginaria",
+   "name": "Imaginaria Film Festival",
+   "entry": "open",
+   "page": "https://www.imaginaria.eu",
+   "website": "https://www.imaginaria.eu",
+   "portal": "own",
+   "country": "Italy"
+  },
+  {
+   "id": "imaginenative-media-arts",
+   "name": "Imaginenative Film + Media Arts Festival",
+   "entry": "open",
+   "page": "https://www.imaginenative.org",
+   "website": "https://www.imaginenative.org",
+   "portal": "own",
+   "country": "Canada"
+  },
+  {
+   "id": "in-palace",
+   "name": "In the Palace International Short Film Festival",
+   "entry": "open",
+   "page": "https://www.inthepalace.com",
+   "website": "https://www.inthepalace.com",
+   "portal": "own",
+   "country": "Bulgaria"
+  },
+  {
+   "id": "indy-presented-by",
+   "name": "Indy Shorts International Film Festival Presented By Heartland Film",
+   "entry": "open",
+   "page": "https://filmfreeway.com/HeartlandFilmIndyShorts",
+   "submit": "https://filmfreeway.com/HeartlandFilmIndyShorts",
+   "website": "https://www.heartlandfilm.org",
+   "portal": "filmfreeway",
+   "region": "Indiana",
+   "country": "United States"
+  },
+  {
+   "id": "interfilm-berlin",
+   "name": "Interfilm International Short Film Festival Berlin",
+   "entry": "open",
+   "page": "https://www.interfilm.de",
+   "website": "https://www.interfilm.de",
+   "portal": "own",
+   "country": "Germany"
+  },
+  {
+   "id": "internacional-cine-lebu",
+   "name": "Festival Internacional de Cine de Lebu, Cinelebu",
+   "entry": "open",
+   "page": "https://www.cinelebu.cl",
+   "website": "https://www.cinelebu.cl",
+   "portal": "own",
+   "country": "Chile"
+  },
+  {
+   "id": "irish-television-awards",
+   "name": "Irish Film & Television Awards",
+   "entry": "open",
+   "page": "https://www.ifta.ie",
+   "website": "https://www.ifta.ie",
+   "portal": "own",
+   "country": "Ireland"
+  },
+  {
+   "id": "israel-academy-ophir",
+   "name": "The Israel Film Academy – Ophir Awards",
+   "entry": "open",
+   "page": "https://israelfilmacademy.co.il",
+   "website": "https://israelfilmacademy.co.il",
+   "portal": "own",
+   "country": "Israel"
+  },
+  {
+   "id": "its-all-true",
+   "name": "It’s All True – International Documentary Film Festival",
+   "entry": "open",
+   "page": "https://www.etudoverdade.com.br",
+   "website": "https://www.etudoverdade.com.br",
+   "portal": "own",
+   "country": "Brazil"
+  },
+  {
+   "id": "izmir",
+   "name": "Izmir International Short Film Festival",
+   "entry": "open",
+   "page": "https://www.izmirkisafilm.org",
+   "website": "https://www.izmirkisafilm.org",
+   "portal": "own",
+   "country": "Turkey"
+  },
+  {
+   "id": "jerusalem",
+   "name": "Jerusalem Film Festival",
+   "entry": "open",
+   "page": "https://www.jff.org.il",
+   "website": "https://www.jff.org.il",
+   "portal": "own",
+   "country": "Israel"
+  },
+  {
+   "id": "jiiff-jose-ignacio",
+   "name": "Jiiff – José Ignacio International Film Festival",
+   "entry": "open",
+   "page": "https://www.joseignaciofilmfestival.com",
+   "website": "https://www.joseignaciofilmfestival.com",
+   "portal": "own",
+   "country": "Uruguay"
+  },
+  {
+   "id": "kaboom-animation",
+   "name": "Kaboom Animation Festival",
+   "entry": "open",
+   "page": "https://www.kaboomfestival.nl",
+   "website": "https://www.kaboomfestival.nl",
+   "portal": "own",
+   "country": "The Netherlands"
+  },
+  {
    "id": "karlovy-vary",
    "name": "Karlovy Vary International Film Festival (KVIFF)",
    "entry": "open",
@@ -335,6 +1182,62 @@
    "city": "Karlovy Vary",
    "country": "Czech Republic",
    "logo": "logos/karlovy-vary.png"
+  },
+  {
+   "id": "krakow",
+   "name": "Krakow Film Festival",
+   "entry": "open",
+   "page": "https://www.krakowfilmfestival.pl",
+   "website": "https://www.krakowfilmfestival.pl",
+   "portal": "own",
+   "country": "Poland"
+  },
+  {
+   "id": "kurzfilmtage-winterthur",
+   "name": "International e Kurzfilmtage Winterthur",
+   "entry": "open",
+   "page": "https://www.kurzfilmtage.ch",
+   "website": "https://www.kurzfilmtage.ch",
+   "portal": "own",
+   "country": "Switzerland"
+  },
+  {
+   "id": "la-shorts-internatio",
+   "name": "La Shorts International Film Festival",
+   "entry": "open",
+   "page": "https://www.lashortsfest.com",
+   "website": "https://www.lashortsfest.com",
+   "portal": "own",
+   "region": "California",
+   "country": "United States"
+  },
+  {
+   "id": "leeds",
+   "name": "Leeds International Film Festival",
+   "entry": "open",
+   "page": "https://www.leedsfilm.com/",
+   "website": "https://www.leedsfilm.com/",
+   "portal": "own",
+   "country": "United Kingdom"
+  },
+  {
+   "id": "leipzig-documentary-animated",
+   "name": "International Leipzig Festival for Documentary and Animated Film",
+   "entry": "open",
+   "page": "https://www.dok-leipzig.de",
+   "website": "https://www.dok-leipzig.de",
+   "portal": "own",
+   "country": "Germany"
+  },
+  {
+   "id": "leuven",
+   "name": "Leuven International Short Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/LeuvenInternationalShortFilmFestival",
+   "submit": "https://filmfreeway.com/LeuvenInternationalShortFilmFestival",
+   "website": "https://www.kortfilmfestival.be",
+   "portal": "filmfreeway",
+   "country": "Belgium"
   },
   {
    "id": "levante-mostra-del-di-taranto",
@@ -370,6 +1273,16 @@
    "logo": "logos/malaga.png"
   },
   {
+   "id": "manchester-animation",
+   "name": "Manchester Animation Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/ManchesterAnimationFestival",
+   "submit": "https://filmfreeway.com/ManchesterAnimationFestival",
+   "website": "https://www.manchesteranimationfestival.co.uk",
+   "portal": "filmfreeway",
+   "country": "United Kingdom"
+  },
+  {
    "id": "mar-del-plata",
    "name": "Mar del Plata International Film Festival",
    "entry": "open",
@@ -379,6 +1292,15 @@
    "city": "Mar del Plata",
    "country": "Argentina",
    "logo": "logos/mar-del-plata.png"
+  },
+  {
+   "id": "melbourne",
+   "name": "Melbourne International Film Festival",
+   "entry": "open",
+   "page": "https://www.miff.com.au",
+   "website": "https://www.miff.com.au",
+   "portal": "own",
+   "country": "Australia"
   },
   {
    "id": "milwaukee",
@@ -394,6 +1316,25 @@
    "logo": "logos/milwaukee.png"
   },
   {
+   "id": "morelia",
+   "name": "Morelia International Film Festival",
+   "entry": "open",
+   "page": "https://www.moreliafilmfest.com",
+   "website": "https://www.moreliafilmfest.com",
+   "portal": "own",
+   "country": "Mexico"
+  },
+  {
+   "id": "mountainfilm",
+   "name": "Mountainfilm",
+   "entry": "open",
+   "page": "https://www.mountainfilm.org",
+   "website": "https://www.mountainfilm.org",
+   "portal": "own",
+   "region": "Colorado",
+   "country": "United States"
+  },
+  {
    "id": "mpumalanga",
    "name": "Mpumalanga International Film Festival",
    "entry": "open",
@@ -403,6 +1344,26 @@
    "city": "Mbombela",
    "country": "South Africa",
    "logo": "logos/mpumalanga.png"
+  },
+  {
+   "id": "nashville",
+   "name": "Nashville Film Festival",
+   "entry": "open",
+   "page": "https://www.nashvillefilmfestival.org",
+   "website": "https://www.nashvillefilmfestival.org",
+   "portal": "own",
+   "region": "Tennessee",
+   "country": "United States"
+  },
+  {
+   "id": "new-hampshire",
+   "name": "New Hampshire Film Festival",
+   "entry": "open",
+   "page": "https://www.nhfilmfestival.com",
+   "website": "https://www.nhfilmfestival.com",
+   "portal": "own",
+   "region": "New Hampshire",
+   "country": "United States"
   },
   {
    "id": "new-media",
@@ -430,6 +1391,26 @@
    "logo": "logos/new-next.png"
   },
   {
+   "id": "new-orleans",
+   "name": "New Orleans Film Festival",
+   "entry": "open",
+   "page": "https://www.neworleansfilmfestival.org",
+   "website": "https://www.neworleansfilmfestival.org",
+   "portal": "own",
+   "region": "Louisiana",
+   "country": "United States"
+  },
+  {
+   "id": "new-york-childrens",
+   "name": "New York International Children’s Film Festival",
+   "entry": "open",
+   "page": "https://www.nyicff.org",
+   "website": "https://www.nyicff.org",
+   "portal": "own",
+   "region": "New York",
+   "country": "United States"
+  },
+  {
    "id": "new-york-screening",
    "name": "New York Film Screening Festival",
    "entry": "open",
@@ -439,6 +1420,51 @@
    "city": "New York",
    "country": "USA",
    "logo": "logos/new-york-screening.png"
+  },
+  {
+   "id": "nordisk-panorama",
+   "name": "Nordisk Panorama Film Festival",
+   "entry": "open",
+   "page": "https://nordiskpanorama.com/en/festival/",
+   "website": "https://nordiskpanorama.com/en/festival/",
+   "portal": "own",
+   "country": "Five Nordic Countries"
+  },
+  {
+   "id": "norwegian",
+   "name": "The Norwegian Short Film Festival",
+   "entry": "open",
+   "page": "https://www.kortfilmfestivalen.no",
+   "website": "https://www.kortfilmfestivalen.no",
+   "portal": "own",
+   "country": "Norway"
+  },
+  {
+   "id": "nouveau-cinema",
+   "name": "Festival du Nouveau Cinéma",
+   "entry": "open",
+   "page": "https://www.nouveaucinema.ca",
+   "website": "https://www.nouveaucinema.ca",
+   "portal": "own",
+   "country": "Canada"
+  },
+  {
+   "id": "oberhausen",
+   "name": "International Short Film Festival Oberhausen",
+   "entry": "open",
+   "page": "https://www.kurzfilmtage.de",
+   "website": "https://www.kurzfilmtage.de",
+   "portal": "own",
+   "country": "Germany"
+  },
+  {
+   "id": "off-odense",
+   "name": "Off – Odense International Film Festival",
+   "entry": "open",
+   "page": "https://www.filmfestival.dk",
+   "website": "https://www.filmfestival.dk",
+   "portal": "own",
+   "country": "Denmark"
   },
   {
    "id": "ojai",
@@ -478,6 +1504,15 @@
    "logo": "logos/oregon-independent.png"
   },
   {
+   "id": "ottawa-animation",
+   "name": "The Ottawa International Animation Festival",
+   "entry": "open",
+   "page": "https://www.animationfestival.ca",
+   "website": "https://www.animationfestival.ca",
+   "portal": "own",
+   "country": "Canada"
+  },
+  {
    "id": "ouray",
    "name": "Ouray International Film Festival",
    "entry": "open",
@@ -488,6 +1523,38 @@
    "region": "CO",
    "country": "United States",
    "logo": "logos/ouray.png"
+  },
+  {
+   "id": "out-on-atlanta",
+   "name": "Out On Film, Atlanta's International Lgbtq Film Festival",
+   "entry": "open",
+   "page": "https://www.outonfilm.org",
+   "website": "https://www.outonfilm.org",
+   "portal": "own",
+   "region": "Georgia",
+   "country": "United States"
+  },
+  {
+   "id": "palm-springs-shortfest",
+   "name": "Palm Springs International Shortfest",
+   "entry": "open",
+   "page": "https://filmfreeway.com/PalmSpringsInternationalFilmFestival",
+   "submit": "https://filmfreeway.com/PalmSpringsInternationalFilmFestival",
+   "website": "https://www.psfilmfest.org",
+   "portal": "filmfreeway",
+   "region": "California",
+   "country": "United States"
+  },
+  {
+   "id": "pan-african-arts",
+   "name": "The Pan African Film & Arts Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/ThePanAfricanFilmFestival",
+   "submit": "https://filmfreeway.com/ThePanAfricanFilmFestival",
+   "website": "https://www.paff.org",
+   "portal": "filmfreeway",
+   "region": "California",
+   "country": "United States"
   },
   {
    "id": "phoenix",
@@ -539,6 +1606,62 @@
    "logo": "logos/pov.png"
   },
   {
+   "id": "premi-david-donatello",
+   "name": "Premi David di Donatello – David di Donatello Film Awards",
+   "entry": "open",
+   "page": "https://www.daviddidonatello.it",
+   "website": "https://www.daviddidonatello.it",
+   "portal": "own",
+   "country": "Italy"
+  },
+  {
+   "id": "provincetown",
+   "name": "Provincetown International Film Festival",
+   "entry": "open",
+   "page": "https://www.provincetownfilm.org",
+   "website": "https://www.provincetownfilm.org",
+   "portal": "own",
+   "region": "Massachusetts",
+   "country": "United States"
+  },
+  {
+   "id": "raindance",
+   "name": "Raindance Film Festival",
+   "entry": "open",
+   "page": "https://www.raindance.org",
+   "website": "https://www.raindance.org",
+   "portal": "own",
+   "country": "United Kingdom"
+  },
+  {
+   "id": "reelsisters-diaspora",
+   "name": "Reelsisters of the Diaspora Film Festival",
+   "entry": "open",
+   "page": "https://www.reelsisters.org",
+   "website": "https://www.reelsisters.org",
+   "portal": "own",
+   "region": "New York",
+   "country": "United States"
+  },
+  {
+   "id": "regard-saguenay",
+   "name": "Regard – Saguenay International Film Festival",
+   "entry": "open",
+   "page": "https://www.festivalregard.com",
+   "website": "https://www.festivalregard.com",
+   "portal": "own",
+   "country": "Canada"
+  },
+  {
+   "id": "rio-janeiro-curta",
+   "name": "Rio de Janeiro International Short Film Festival – Festival Curta Cinema",
+   "entry": "open",
+   "page": "https://www.curtacinema.com.br",
+   "website": "https://www.curtacinema.com.br",
+   "portal": "own",
+   "country": "Brazil"
+  },
+  {
    "id": "riverrun",
    "name": "RiverRun International Film Festival",
    "entry": "open",
@@ -564,6 +1687,47 @@
    "logo": "logos/rooftop-films.png"
   },
   {
+   "id": "run-shoot-filmworks",
+   "name": "Run&shoot Filmworks – Martha’s Vineyard African American Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/mvaaff",
+   "submit": "https://filmfreeway.com/mvaaff",
+   "website": "https://www.mvaaff.com",
+   "portal": "filmfreeway",
+   "region": "Massachusetts",
+   "country": "United States"
+  },
+  {
+   "id": "san-francisco-jewish",
+   "name": "San Francisco Jewish Film Festival",
+   "entry": "open",
+   "page": "https://www.jfi.org",
+   "website": "https://www.jfi.org",
+   "portal": "own",
+   "region": "California",
+   "country": "United States"
+  },
+  {
+   "id": "san-jose",
+   "name": "San Jose International Short Film Festival",
+   "entry": "open",
+   "page": "https://www.sjsff.com",
+   "website": "https://www.sjsff.com",
+   "portal": "own",
+   "region": "California",
+   "country": "United States"
+  },
+  {
+   "id": "san-luis-obispo",
+   "name": "San Luis Obispo International Film Festival",
+   "entry": "open",
+   "page": "https://www.slofilmfest.org",
+   "website": "https://www.slofilmfest.org",
+   "portal": "own",
+   "region": "California",
+   "country": "United States"
+  },
+  {
    "id": "san-sebastian",
    "name": "San Sebastian Film Festival",
    "entry": "open",
@@ -586,6 +1750,16 @@
    "region": "CA",
    "country": "United States",
    "logo": "logos/santa-barbara.png"
+  },
+  {
+   "id": "santa-fe",
+   "name": "Santa Fe International Film Festival",
+   "entry": "open",
+   "page": "https://www.santafe.film",
+   "website": "https://www.santafe.film",
+   "portal": "own",
+   "region": "New Mexico",
+   "country": "United States"
   },
   {
    "id": "sarajevo",
@@ -625,6 +1799,17 @@
    "logo": "logos/seattle.png"
   },
   {
+   "id": "sebastopol-documentary",
+   "name": "Sebastopol Documentary Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/SebastopolDocumentaryFilmFestival",
+   "submit": "https://filmfreeway.com/SebastopolDocumentaryFilmFestival",
+   "website": "https://www.sebastopolfilmfestival.org",
+   "portal": "filmfreeway",
+   "region": "California",
+   "country": "United States"
+  },
+  {
    "id": "sffilm",
    "name": "SFFILM (San Francisco)",
    "entry": "open",
@@ -636,6 +1821,24 @@
    "region": "CA",
    "country": "United States",
    "logo": "logos/sffilm.png"
+  },
+  {
+   "id": "short-shorts-film-fe",
+   "name": "Short Shorts Film Festival",
+   "entry": "open",
+   "page": "https://www.shortshorts.org",
+   "website": "https://www.shortshorts.org",
+   "portal": "own",
+   "country": "Japan"
+  },
+  {
+   "id": "show-me",
+   "name": "Show Me Shorts Film Festival",
+   "entry": "open",
+   "page": "https://www.showmeshorts.co.nz",
+   "website": "https://www.showmeshorts.co.nz",
+   "portal": "own",
+   "country": "New Zealand"
   },
   {
    "id": "sidewalk",
@@ -651,6 +1854,33 @@
    "logo": "logos/sidewalk.png"
   },
   {
+   "id": "siggraph",
+   "name": "Siggraph",
+   "entry": "open",
+   "page": "https://www.siggraph.org",
+   "website": "https://www.siggraph.org",
+   "portal": "own",
+   "country": "USA and Canada"
+  },
+  {
+   "id": "singapore",
+   "name": "Singapore International Film Festival",
+   "entry": "open",
+   "page": "https://www.sgiff.com",
+   "website": "https://www.sgiff.com",
+   "portal": "own",
+   "country": "Singapore"
+  },
+  {
+   "id": "sitges-fantastic-catalonia",
+   "name": "Sitges International Fantastic Film Festival of Catalonia",
+   "entry": "open",
+   "page": "https://www.sitgesfilmfestival.com",
+   "website": "https://www.sitgesfilmfestival.com",
+   "portal": "own",
+   "country": "Spain"
+  },
+  {
    "id": "slamdance",
    "name": "Slamdance",
    "entry": "open",
@@ -662,6 +1892,44 @@
    "region": "CA",
    "country": "United States",
    "logo": "logos/slamdance.png"
+  },
+  {
+   "id": "spark-animation",
+   "name": "Spark Animation",
+   "entry": "open",
+   "page": "https://filmfreeway.com/SPARKANIMATION",
+   "submit": "https://filmfreeway.com/SPARKANIMATION",
+   "website": "https://www.sparkcg.org",
+   "portal": "filmfreeway",
+   "country": "Canada"
+  },
+  {
+   "id": "st-kilda",
+   "name": "St. Kilda Film Festival",
+   "entry": "open",
+   "page": "https://www.stkildafilmfestival.com.au",
+   "website": "https://www.stkildafilmfestival.com.au",
+   "portal": "own",
+   "country": "Australia"
+  },
+  {
+   "id": "st-louis",
+   "name": "St. Louis International Film Festival",
+   "entry": "open",
+   "page": "https://www.cinemastlouis.org",
+   "website": "https://www.cinemastlouis.org",
+   "portal": "own",
+   "region": "Missouri",
+   "country": "United States"
+  },
+  {
+   "id": "stuttgart-animated",
+   "name": "Stuttgart Festival of Animated Film",
+   "entry": "open",
+   "page": "https://www.itfs.de",
+   "website": "https://www.itfs.de",
+   "portal": "own",
+   "country": "Germany"
   },
   {
    "id": "sundance",
@@ -689,6 +1957,44 @@
    "logo": "logos/sxsw.png"
   },
   {
+   "id": "sydney",
+   "name": "Sydney Film Festival",
+   "entry": "open",
+   "page": "https://www.sff.org.au",
+   "website": "https://www.sff.org.au",
+   "portal": "own",
+   "country": "Australia"
+  },
+  {
+   "id": "taipei-golden-horse",
+   "name": "Taipei Golden Horse Film Festival",
+   "entry": "open",
+   "page": "https://www.goldenhorse.org.tw",
+   "website": "https://www.goldenhorse.org.tw",
+   "portal": "own",
+   "country": "GO LDEN HORSE AWARDS"
+  },
+  {
+   "id": "tampere",
+   "name": "Tampere Film Festival",
+   "entry": "open",
+   "page": "https://www.tamperefilmfestival.fi",
+   "website": "https://www.tamperefilmfestival.fi",
+   "portal": "own",
+   "country": "Finland"
+  },
+  {
+   "id": "tasveer",
+   "name": "Tasveer Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/TasveerFilmMarket",
+   "submit": "https://filmfreeway.com/TasveerFilmMarket",
+   "website": "https://www.tasveerfestival.org",
+   "portal": "filmfreeway",
+   "region": "Washington",
+   "country": "United States"
+  },
+  {
    "id": "tauron-american-in-poland",
    "name": "TAURON - American Film Festival in Poland",
    "entry": "open",
@@ -700,6 +2006,26 @@
    "logo": "logos/tauron-american-in-poland.png"
   },
   {
+   "id": "tehran",
+   "name": "Tehran International Short Film Festival",
+   "entry": "open",
+   "page": "https://www.tisff.ir",
+   "website": "https://www.tisff.ir",
+   "portal": "own",
+   "country": "Iran"
+  },
+  {
+   "id": "thomas-edison",
+   "name": "Thomas Edison Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/ThomasEdisonFilmFestival",
+   "submit": "https://filmfreeway.com/ThomasEdisonFilmFestival",
+   "website": "https://www.tefilmfest.org",
+   "portal": "filmfreeway",
+   "city": "Various",
+   "country": "United States"
+  },
+  {
    "id": "tiff",
    "name": "TIFF (Toronto)",
    "entry": "open",
@@ -709,6 +2035,16 @@
    "city": "Toronto",
    "country": "Canada",
    "logo": "logos/tiff.png"
+  },
+  {
+   "id": "tirana",
+   "name": "Tirana International Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/ScreenplayContesTIFF",
+   "submit": "https://filmfreeway.com/ScreenplayContesTIFF",
+   "website": "https://tiranafilmfest.org/",
+   "portal": "filmfreeway",
+   "country": "Albania"
   },
   {
    "id": "tokyo",
@@ -747,6 +2083,26 @@
    "logo": "logos/trieste.png"
   },
   {
+   "id": "uppsala",
+   "name": "Uppsala International Short Film Festival",
+   "entry": "open",
+   "page": "https://www.shortfilmfestival.com",
+   "website": "https://www.shortfilmfestival.com",
+   "portal": "own",
+   "country": "Sweden"
+  },
+  {
+   "id": "urbanworld",
+   "name": "Urbanworld Film Festival",
+   "entry": "open",
+   "page": "https://filmfreeway.com/UrbanworldFilmFestival",
+   "submit": "https://filmfreeway.com/UrbanworldFilmFestival",
+   "website": "https://www.urbanworld.org",
+   "portal": "filmfreeway",
+   "region": "New York",
+   "country": "United States"
+  },
+  {
    "id": "venice",
    "name": "Venice Film Festival (Biennale Cinema)",
    "entry": "open",
@@ -756,6 +2112,33 @@
    "city": "Venice",
    "country": "Italy",
    "logo": "logos/venice.png"
+  },
+  {
+   "id": "vienna",
+   "name": "Vienna Shorts – International Film Festival",
+   "entry": "open",
+   "page": "https://www.viennashorts.com",
+   "website": "https://www.viennashorts.com",
+   "portal": "own",
+   "country": "Austria"
+  },
+  {
+   "id": "vilnius",
+   "name": "Vilnius Short Film Festival",
+   "entry": "open",
+   "page": "https://filmshorts.lt",
+   "website": "https://filmshorts.lt",
+   "portal": "own",
+   "country": "Lithuania"
+  },
+  {
+   "id": "visions-reel",
+   "name": "Visions du Réel, International Film Festival",
+   "entry": "open",
+   "page": "https://www.visionsdureel.ch",
+   "website": "https://www.visionsdureel.ch",
+   "portal": "own",
+   "country": "Switzerland"
   },
   {
    "id": "voyage-in-time-andong",
@@ -817,9 +2200,57 @@
    "city": "Paris",
    "country": "France",
    "logo": "logos/voyage-in-time-paris.png"
+  },
+  {
+   "id": "warsaw",
+   "name": "Warsaw International Film Festival",
+   "entry": "open",
+   "page": "https://www.wff.pl",
+   "website": "https://www.wff.pl",
+   "portal": "own",
+   "country": "Poland"
+  },
+  {
+   "id": "woodstock",
+   "name": "Woodstock Film Festival",
+   "entry": "open",
+   "page": "https://woodstockfilmfestival.org/",
+   "website": "https://woodstockfilmfestival.org/",
+   "portal": "own",
+   "region": "New York",
+   "country": "United States"
+  },
+  {
+   "id": "world-animated-animafest",
+   "name": "World Festival of Animated Film – Animafest Zagreb",
+   "entry": "open",
+   "page": "https://www.animafest.hr",
+   "website": "https://www.animafest.hr",
+   "portal": "own",
+   "country": "Croatia"
   }
  ],
  "editions": [
+  {
+   "festival": "amdocs-american-documentary",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-03-17",
+    "to": "2027-03-21",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "animation-dingle",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-03-18",
+    "to": "2027-03-20",
+    "approximate": false
+   }
+  },
   {
    "festival": "ann-arbor",
    "cycle": 2027,
@@ -842,12 +2273,42 @@
    }
   },
   {
+   "festival": "aspen",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-06",
+    "to": "2027-04-10",
+    "approximate": false
+   }
+  },
+  {
    "festival": "atlanta",
    "cycle": 2027,
    "runs": {
     "precision": "day",
     "from": "2027-04-22",
     "to": "2027-05-02",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-06-01",
+    "to": "2027-06-07",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-11-01",
+    "to": "2026-11-06",
     "approximate": false
    }
   },
@@ -862,6 +2323,16 @@
     "precision": "month",
     "from": "2027-02-01",
     "to": "2027-02-28",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "bronzelens",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-08-20",
+    "to": "2027-08-29",
     "approximate": false
    }
   },
@@ -904,6 +2375,26 @@
    "cycle": 2026
   },
   {
+   "festival": "doc-edge",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-05-26",
+    "to": "2027-07-04",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "doc-nyc",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-11-11",
+    "to": "2026-11-19",
+    "approximate": false
+   }
+  },
+  {
    "festival": "ficci-cartagena",
    "cycle": 2027,
    "runs": {
@@ -914,8 +2405,38 @@
    }
   },
   {
+   "festival": "florida",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-09",
+    "to": "2027-04-18",
+    "approximate": false
+   }
+  },
+  {
    "festival": "foyle",
    "cycle": 2026
+  },
+  {
+   "festival": "friss-hus-budapest",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-05-27",
+    "to": "2027-06-02",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "hollyshorts",
+   "cycle": 2026,
+   "runs": {
+    "precision": "day",
+    "from": "2026-11-12",
+    "to": "2026-11-15",
+    "approximate": false
+   }
   },
   {
    "festival": "iffr-rotterdam",
@@ -924,6 +2445,16 @@
     "precision": "month",
     "from": "2027-02-01",
     "to": "2027-02-28",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "indy-presented-by",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-07-20",
+    "to": "2027-07-25",
     "approximate": false
    }
   },
@@ -980,6 +2511,26 @@
    "cycle": 2026
   },
   {
+   "festival": "palm-springs-shortfest",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-01-07",
+    "to": "2027-01-18",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "pan-african-arts",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-02-15",
+    "to": "2027-02-21",
+    "approximate": false
+   }
+  },
+  {
    "festival": "phoenix",
    "cycle": 2027,
    "runs": {
@@ -1020,6 +2571,16 @@
    }
   },
   {
+   "festival": "run-shoot-filmworks",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-08-07",
+    "to": "2027-08-15",
+    "approximate": false
+   }
+  },
+  {
    "festival": "santa-barbara",
    "cycle": 2027,
    "runs": {
@@ -1046,6 +2607,16 @@
     "precision": "day",
     "from": "2027-05-13",
     "to": "2027-05-23",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "sebastopol-documentary",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-04-15",
+    "to": "2027-04-18",
     "approximate": false
    }
   },
@@ -1086,6 +2657,16 @@
     "precision": "day",
     "from": "2027-03-15",
     "to": "2027-03-21",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "thomas-edison",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-02-12",
+    "to": "2027-02-12",
     "approximate": false
    }
   },
@@ -1152,6 +2733,90 @@
   }
  ],
  "deadlines": [
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-21",
+    "to": "2026-08-21",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: International Short Live Action (Fiction) Film Competition, International Short Documentary Competition, International Short Animation Competition, International Short Experimental Competition, International Short Web / New Media Competition"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-21",
+    "to": "2026-08-21",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 20,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Lebanese Independent Short Live Action (Fiction) Film Competition, Lebanese Independent Short Documentary Competition, Lebanese Independent Short Animation Competition, Lebanese Independent Short Experimental Category, Lebanese Independent Short Web / New Media Competition"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-21",
+    "to": "2026-08-21",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: WTF Shorts Category"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-21",
+    "to": "2026-08-21",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 10,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Beirut Seeds Competition - Lebanese Students and Amateurs"
+  },
   {
    "festival": "poff-tallinn-black-nights",
    "cycle": 2026,
@@ -1290,6 +2955,27 @@
    "note": "Standard fee; short and mid-length, under 64 minutes"
   },
   {
+   "festival": "palm-springs-shortfest",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-31",
+    "to": "2026-08-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 115,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: International Feature, Documentary Feature, American Feature, After Dark Feature, Local Feature"
+  },
+  {
    "festival": "riverrun",
    "cycle": 2027,
    "tier": "early",
@@ -1332,6 +3018,68 @@
    "note": "Early Bird Deadline: Narrative Short, Documentary Short, Animated Short"
   },
   {
+   "festival": "sebastopol-documentary",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-31",
+    "to": "2026-08-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Documentary Feature"
+  },
+  {
+   "festival": "sebastopol-documentary",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-31",
+    "to": "2026-08-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Documentary Short"
+  },
+  {
+   "festival": "sebastopol-documentary",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-08-31",
+    "to": "2026-08-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Documentary Mini- Doc"
+  },
+  {
    "festival": "sundance",
    "cycle": 2027,
    "tier": "late",
@@ -1346,6 +3094,47 @@
    },
    "fee_unknown": true,
    "note": "Late Deadline Shorts"
+  },
+  {
+   "festival": "animation-dingle",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-02",
+    "to": "2026-09-02",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 25,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Animation Irish Student Short Film, Animation International Student Short Film"
+  },
+  {
+   "festival": "animation-dingle",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-02",
+    "to": "2026-09-02",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 30,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Irish Professional Short Film, International Professional Short Film"
   },
   {
    "festival": "new-media",
@@ -1390,6 +3179,95 @@
    "note": "Sept 7, 2026"
   },
   {
+   "festival": "thomas-edison",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-08",
+    "to": "2026-09-08",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 30,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: Animation (under 15 minutes), Documentary (under 15 minutes), Experimental (under 15 minutes)"
+  },
+  {
+   "festival": "thomas-edison",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-08",
+    "to": "2026-09-08",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: Animation (15+ - 30 minutes), Documentary (15+ - 30 minutes), Experimental (15+ - 30 minutes)"
+  },
+  {
+   "festival": "thomas-edison",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-08",
+    "to": "2026-09-08",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: Animation (30+ - 45 minutes), Documentary (30+ - 45 minutes), Experimental (30+ - 45 minutes)"
+  },
+  {
+   "festival": "thomas-edison",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "documentary",
+    "experimental",
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-08",
+    "to": "2026-09-08",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 15,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: Student Animation, Student Documentary, Student Experimental, Student Narrative"
+  },
+  {
    "festival": "directors-notes",
    "cycle": 2026,
    "tier": "final",
@@ -1415,6 +3293,27 @@
     "approximate": false
    },
    "fee_unknown": true
+  },
+  {
+   "festival": "hollyshorts",
+   "cycle": 2026,
+   "tier": "late",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-11",
+    "to": "2026-09-11",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: UK short films, International Short Films, Student Short Films, Sports short films"
   },
   {
    "festival": "diametrale-experimental",
@@ -1549,6 +3448,26 @@
    "note": "Regular Deadline"
   },
   {
+   "festival": "pan-african-arts",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-16",
+    "to": "2026-09-16",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 175,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended (August 17-Sept 16): Features"
+  },
+  {
    "festival": "portland",
    "cycle": 2026,
    "tier": "early",
@@ -1561,6 +3480,47 @@
    },
    "fee_unknown": true,
    "note": "Sept 16, 2026"
+  },
+  {
+   "festival": "doc-nyc",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-18",
+    "to": "2026-09-18",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 75,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Short List: Shorts"
+  },
+  {
+   "festival": "doc-nyc",
+   "cycle": 2026,
+   "tier": "regular",
+   "categories": [
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-18",
+    "to": "2026-09-18",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 100,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Short List: Features, Winner's Circle (Features Only)"
   },
   {
    "festival": "sundance",
@@ -1577,6 +3537,70 @@
    },
    "fee_unknown": true,
    "note": "Late Deadline Features"
+  },
+  {
+   "festival": "aspen",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-25",
+    "to": "2026-09-25",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Animation, Documentary, Student"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-25",
+    "to": "2026-09-25",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: International Short Live Action (Fiction) Film Competition, International Short Documentary Competition, International Short Animation Competition, International Short Experimental Competition, International Short Web / New Media Competition"
+  },
+  {
+   "festival": "beirut",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-25",
+    "to": "2026-09-25",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: WTF Shorts Category"
   },
   {
    "festival": "riverrun",
@@ -1666,6 +3690,111 @@
    "note": "Late Deadline: Experimental (Short), Experimental Narrative (Short), Experimental Documentary (Short), Experimental Animation (Short)"
   },
   {
+   "festival": "florida",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Narrative Shorts, Documentary Shorts, International Shorts, Animation Shorts, Experimental Shorts"
+  },
+  {
+   "festival": "florida",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Narrative Features, Documentary Features, International Features, Animation Features"
+  },
+  {
+   "festival": "friss-hus-budapest",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 17,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: International Competition - ANIMATION"
+  },
+  {
+   "festival": "friss-hus-budapest",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 15,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: LGBTQ Shorts, Horror Shorts"
+  },
+  {
+   "festival": "friss-hus-budapest",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 23,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Hungarian Competition - ANIMATION, International Competition - DOCUMENTARY, Hungarian Competition - DOCUMENTARY"
+  },
+  {
    "festival": "levante-mostra-del-di-taranto",
    "cycle": 2026,
    "tier": "final",
@@ -1692,6 +3821,68 @@
    },
    "fee_unknown": true,
    "note": "Earlybird Deadline"
+  },
+  {
+   "festival": "sebastopol-documentary",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Documentary Short"
+  },
+  {
+   "festival": "sebastopol-documentary",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Documentary Mini- Doc"
+  },
+  {
+   "festival": "sebastopol-documentary",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-09-30",
+    "to": "2026-09-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 65,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Documentary Feature"
   },
   {
    "festival": "trieste",
@@ -1799,6 +3990,72 @@
    "note": "Final Deadline; narrative, documentary or animated short"
   },
   {
+   "festival": "hollyshorts",
+   "cycle": 2026,
+   "tier": "extended",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-02",
+    "to": "2026-10-02",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: UK short films, International Short Films, Student Short Films, Sports short films"
+  },
+  {
+   "festival": "bronzelens",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-04",
+    "to": "2026-10-04",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Pre Earlybird Deadline: Feature: Standard, Short Film: Standard, Documentary: Standard, Short Documentary: Standard, International Feature"
+  },
+  {
+   "festival": "bronzelens",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "feature",
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-04",
+    "to": "2026-10-04",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 30,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Pre Earlybird Deadline: Feature: Georgia Production, Short Film: Georgia Production, Short Film: Student, Documentary: Georgia Production, Short Documentary: Georgia Production"
+  },
+  {
    "festival": "slamdance",
    "cycle": 2027,
    "tier": "extended",
@@ -1813,6 +4070,25 @@
    "note": "Extended Sept 15-Oct 6, 2026"
   },
   {
+   "festival": "pan-african-arts",
+   "cycle": 2027,
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-07",
+    "to": "2026-10-07",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 25,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Blk Health Comp (*Cancer only*): BLACK HEALTH IN FOCUS Short Film Competition (*CANCER FOCUSED ONLY*)"
+  },
+  {
    "festival": "portland",
    "cycle": 2026,
    "tier": "regular",
@@ -1825,6 +4101,153 @@
    },
    "fee_unknown": true,
    "note": "Oct 7, 2026"
+  },
+  {
+   "festival": "amdocs-american-documentary",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-11",
+    "to": "2026-10-11",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Documentary Short, Animated Work"
+  },
+  {
+   "festival": "amdocs-american-documentary",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-11",
+    "to": "2026-10-11",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Documentary Film Fund"
+  },
+  {
+   "festival": "amdocs-american-documentary",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-11",
+    "to": "2026-10-11",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Documentary Feature"
+  },
+  {
+   "festival": "doc-edge",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-15",
+    "to": "2026-10-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 30,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: International Short Documentary: non-world premiere, International Short Documentary: available for world premiere, New Zealand Feature Documentary"
+  },
+  {
+   "festival": "doc-edge",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-15",
+    "to": "2026-10-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 10,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: New Zealand Tertiary Student Documentary"
+  },
+  {
+   "festival": "doc-edge",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-15",
+    "to": "2026-10-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: International Feature Documentary: non-world premiere, International Feature Documentary: available for world premiere"
+  },
+  {
+   "festival": "doc-edge",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-15",
+    "to": "2026-10-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 20,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: New Zealand Short Documentary"
   },
   {
    "festival": "voyage-in-time-andong",
@@ -1914,6 +4337,170 @@
    "note": "16% fee discount if submitted by this date"
   },
   {
+   "festival": "friss-hus-budapest",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-31",
+    "to": "2026-10-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 34,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Hungarian Competition - ANIMATION, International Competition - DOCUMENTARY, Hungarian Competition - DOCUMENTARY"
+  },
+  {
+   "festival": "friss-hus-budapest",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-31",
+    "to": "2026-10-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 27,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: International Competition - ANIMATION"
+  },
+  {
+   "festival": "friss-hus-budapest",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-31",
+    "to": "2026-10-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 17,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: LGBTQ Shorts, Horror Shorts"
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-01",
+    "to": "2026-11-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 25,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird: Short Narrative, Short Documentary, Short Animation"
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-01",
+    "to": "2026-11-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 10,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird: Indonesian (WNI) Feature Film"
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-01",
+    "to": "2026-11-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird: First Feature, Animated Feature (Non Competition)"
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-01",
+    "to": "2026-11-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 3,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird: Indonesian (WNI) Short Film"
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-01",
+    "to": "2026-11-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird: Narrative Feature, Documentary Feature"
+  },
+  {
    "festival": "riverrun",
    "cycle": 2027,
    "tier": "late",
@@ -1956,6 +4543,47 @@
    "note": "Late Deadline: Narrative Short, Documentary Short, Animated Short"
   },
   {
+   "festival": "animation-dingle",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-04",
+    "to": "2026-11-04",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Animation Irish Student Short Film, Animation International Student Short Film"
+  },
+  {
+   "festival": "animation-dingle",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-04",
+    "to": "2026-11-04",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Irish Professional Short Film, International Professional Short Film"
+  },
+  {
    "festival": "berlinale",
    "cycle": 2027,
    "categories": [
@@ -1985,6 +4613,50 @@
     "approximate": false
    },
    "fee_unknown": true
+  },
+  {
+   "festival": "florida",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-06",
+    "to": "2026-11-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Narrative Features, Documentary Features, International Features, Animation Features"
+  },
+  {
+   "festival": "florida",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-06",
+    "to": "2026-11-06",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Narrative Shorts, Documentary Shorts, International Shorts, Animation Shorts, Experimental Shorts"
   },
   {
    "festival": "voyage-in-time-andong",
@@ -2017,6 +4689,28 @@
    "note": "Shorts/docs: Nov 8, 2026"
   },
   {
+   "festival": "aspen",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-13",
+    "to": "2026-11-13",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 95,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Animation, Documentary, Student"
+  },
+  {
    "festival": "portland",
    "cycle": 2026,
    "tier": "late",
@@ -2029,6 +4723,50 @@
    },
    "fee_unknown": true,
    "note": "Late Oct 21 / Final Nov 18, 2026"
+  },
+  {
+   "festival": "florida",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-20",
+    "to": "2026-11-20",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 90,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Narrative Features, Documentary Features, International Features, Animation Features"
+  },
+  {
+   "festival": "florida",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-20",
+    "to": "2026-11-20",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Narrative Shorts, Documentary Shorts, International Shorts, Animation Shorts, Experimental Shorts"
   },
   {
    "festival": "ashland-independent",
@@ -2057,6 +4795,48 @@
    },
    "fee_unknown": true,
    "note": "Nov 29, 2026"
+  },
+  {
+   "festival": "indy-presented-by",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-29",
+    "to": "2026-11-29",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Narrative Short, Documentary Short, Animated Short"
+  },
+  {
+   "festival": "indy-presented-by",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-29",
+    "to": "2026-11-29",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 20,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Horror Short, Indiana Spotlight Narrative Short, Indiana Spotlight Documentary Short, Indiana Spotlight Animated Short"
   },
   {
    "festival": "berlin-gate",
@@ -2217,6 +4997,152 @@
    "note": "Final Deadline: Narrative Short, Documentary Short, Animated Short"
   },
   {
+   "festival": "animation-dingle",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-09",
+    "to": "2026-12-09",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Irish Professional Short Film, International Professional Short Film"
+  },
+  {
+   "festival": "animation-dingle",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-09",
+    "to": "2026-12-09",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Animation Irish Student Short Film, Animation International Student Short Film"
+  },
+  {
+   "festival": "florida",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "documentary",
+    "experimental",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-09",
+    "to": "2026-12-09",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 90,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Narrative Shorts, Documentary Shorts, International Shorts, Animation Shorts, Experimental Shorts"
+  },
+  {
+   "festival": "florida",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "documentary",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-09",
+    "to": "2026-12-09",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 100,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Narrative Features, Documentary Features, International Features, Animation Features"
+  },
+  {
+   "festival": "friss-hus-budapest",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-10",
+    "to": "2026-12-10",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 36,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: Hungarian Competition - ANIMATION, International Competition - DOCUMENTARY, Hungarian Competition - DOCUMENTARY"
+  },
+  {
+   "festival": "friss-hus-budapest",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-10",
+    "to": "2026-12-10",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 29,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: International Competition - ANIMATION"
+  },
+  {
+   "festival": "friss-hus-budapest",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-10",
+    "to": "2026-12-10",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 20,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final Deadline: LGBTQ Shorts, Horror Shorts"
+  },
+  {
    "festival": "phoenix",
    "cycle": 2027,
    "tier": "late",
@@ -2231,6 +5157,68 @@
    "note": "Late Nov 5 / Extended Dec 10, 2026"
   },
   {
+   "festival": "amdocs-american-documentary",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-13",
+    "to": "2026-12-13",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Documentary Film Fund"
+  },
+  {
+   "festival": "amdocs-american-documentary",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-13",
+    "to": "2026-12-13",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 65,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Documentary Feature"
+  },
+  {
+   "festival": "amdocs-american-documentary",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-13",
+    "to": "2026-12-13",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Documentary Short, Animated Work"
+  },
+  {
    "festival": "cleveland",
    "cycle": 2027,
    "tier": "final",
@@ -2243,6 +5231,136 @@
    },
    "fee_unknown": true,
    "note": "Accepting through ~Dec 15, 2026"
+  },
+  {
+   "festival": "bronzelens",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-31",
+    "to": "2026-12-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Feature: Standard, Short Film: Standard, Documentary: Standard, Short Documentary: Standard, International Feature"
+  },
+  {
+   "festival": "bronzelens",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "feature",
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-31",
+    "to": "2026-12-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Earlybird Deadline: Feature: Georgia Production, Short Film: Georgia Production, Short Film: Student, Documentary: Georgia Production, Short Documentary: Georgia Production"
+  },
+  {
+   "festival": "doc-edge",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-31",
+    "to": "2026-12-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: International Feature Documentary: non-world premiere, International Feature Documentary: available for world premiere"
+  },
+  {
+   "festival": "doc-edge",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-31",
+    "to": "2026-12-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 25,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: New Zealand Short Documentary"
+  },
+  {
+   "festival": "doc-edge",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-31",
+    "to": "2026-12-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: International Short Documentary: non-world premiere, International Short Documentary: available for world premiere, New Zealand Feature Documentary"
+  },
+  {
+   "festival": "doc-edge",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-12-31",
+    "to": "2026-12-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 10,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: New Zealand Tertiary Student Documentary"
   },
   {
    "festival": "sarasota",
@@ -2273,6 +5391,109 @@
    "note": "Regular Deadline"
   },
   {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-01",
+    "to": "2027-01-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular: Narrative Feature, Documentary Feature"
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-01",
+    "to": "2027-01-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular: First Feature, Animated Feature (Non Competition)"
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-01",
+    "to": "2027-01-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 5,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular: Indonesian (WNI) Short Film"
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-01",
+    "to": "2027-01-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 10,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular: Indonesian (WNI) Feature Film"
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-01",
+    "to": "2027-01-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular: Short Narrative, Short Documentary, Short Animation"
+  },
+  {
    "festival": "seattle",
    "cycle": 2027,
    "tier": "final",
@@ -2287,6 +5508,133 @@
    "note": "Accepting until Jan 7, 2027"
   },
   {
+   "festival": "amdocs-american-documentary",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-10",
+    "to": "2027-01-10",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Documentary Feature, Documentary Film Fund"
+  },
+  {
+   "festival": "amdocs-american-documentary",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-10",
+    "to": "2027-01-10",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Documentary Short, Animated Work"
+  },
+  {
+   "festival": "doc-edge",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-15",
+    "to": "2027-01-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: International Short Documentary: non-world premiere, International Short Documentary: available for world premiere, New Zealand Feature Documentary"
+  },
+  {
+   "festival": "doc-edge",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-15",
+    "to": "2027-01-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 15,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: New Zealand Tertiary Student Documentary"
+  },
+  {
+   "festival": "doc-edge",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-15",
+    "to": "2027-01-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 30,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: New Zealand Short Documentary"
+  },
+  {
+   "festival": "doc-edge",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-15",
+    "to": "2027-01-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: International Feature Documentary: non-world premiere, International Feature Documentary: available for world premiere"
+  },
+  {
    "festival": "voyage-in-time-fest",
    "cycle": 2027,
    "tier": "late",
@@ -2299,6 +5647,194 @@
    },
    "fee_unknown": true,
    "note": "Late Deadline"
+  },
+  {
+   "festival": "doc-edge",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "documentary",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-31",
+    "to": "2027-01-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: International Short Documentary: non-world premiere, International Short Documentary: available for world premiere, New Zealand Feature Documentary"
+  },
+  {
+   "festival": "doc-edge",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "documentary",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-31",
+    "to": "2027-01-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 15,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: New Zealand Tertiary Student Documentary"
+  },
+  {
+   "festival": "doc-edge",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-31",
+    "to": "2027-01-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: New Zealand Short Documentary"
+  },
+  {
+   "festival": "doc-edge",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-31",
+    "to": "2027-01-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: International Feature Documentary: non-world premiere, International Feature Documentary: available for world premiere"
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-01",
+    "to": "2027-02-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 15,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late: Indonesian (WNI) Feature Film"
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-01",
+    "to": "2027-02-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late: Short Narrative, Short Documentary, Short Animation"
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-01",
+    "to": "2027-02-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late: First Feature, Animated Feature (Non Competition)"
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-01",
+    "to": "2027-02-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 5,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late: Indonesian (WNI) Short Film"
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-01",
+    "to": "2027-02-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late: Narrative Feature, Documentary Feature"
   },
   {
    "festival": "milwaukee",
@@ -2327,6 +5863,48 @@
    },
    "fee_unknown": true,
    "note": "Extended Deadline"
+  },
+  {
+   "festival": "indy-presented-by",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-14",
+    "to": "2027-02-14",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Narrative Short, Documentary Short, Animated Short"
+  },
+  {
+   "festival": "indy-presented-by",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-02-14",
+    "to": "2027-02-14",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 30,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Horror Short, Indiana Spotlight Narrative Short, Indiana Spotlight Documentary Short, Indiana Spotlight Animated Short"
   },
   {
    "festival": "sarasota",
@@ -2399,6 +5977,151 @@
    "note": "Late Deadline"
   },
   {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-01",
+    "to": "2027-03-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final: Short Narrative, Short Documentary, Short Animation"
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-01",
+    "to": "2027-03-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final: First Feature, Animated Feature (Non Competition)"
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-01",
+    "to": "2027-03-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 8,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final: Indonesian (WNI) Short Film"
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-01",
+    "to": "2027-03-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final: Narrative Feature, Documentary Feature"
+  },
+  {
+   "festival": "bali",
+   "cycle": 2027,
+   "tier": "final",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-01",
+    "to": "2027-03-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 15,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Final: Indonesian (WNI) Feature Film"
+  },
+  {
+   "festival": "indy-presented-by",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-07",
+    "to": "2027-03-07",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 75,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Narrative Short, Documentary Short, Animated Short"
+  },
+  {
+   "festival": "indy-presented-by",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-07",
+    "to": "2027-03-07",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Horror Short, Indiana Spotlight Narrative Short, Indiana Spotlight Documentary Short, Indiana Spotlight Animated Short"
+  },
+  {
    "festival": "brooklyn",
    "cycle": 2027,
    "tier": "final",
@@ -2411,6 +6134,68 @@
    },
    "fee_unknown": true,
    "note": "Closes Mar 13, 2027 (notify by May 4, 2027)"
+  },
+  {
+   "festival": "run-shoot-filmworks",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-15",
+    "to": "2027-03-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Feature Film"
+  },
+  {
+   "festival": "run-shoot-filmworks",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-15",
+    "to": "2027-03-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Documentary Feature"
+  },
+  {
+   "festival": "run-shoot-filmworks",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-15",
+    "to": "2027-03-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Short Film, Short Documentary"
   },
   {
    "festival": "cannes",
@@ -2428,6 +6213,48 @@
    "fee_unknown": false
   },
   {
+   "festival": "indy-presented-by",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-21",
+    "to": "2027-03-21",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 95,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Narrative Short, Documentary Short, Animated Short"
+  },
+  {
+   "festival": "indy-presented-by",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-21",
+    "to": "2027-03-21",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Horror Short, Indiana Spotlight Narrative Short, Indiana Spotlight Documentary Short, Indiana Spotlight Animated Short"
+  },
+  {
    "festival": "voyage-in-time-paris",
    "cycle": 2027,
    "tier": "extended",
@@ -2440,6 +6267,178 @@
    },
    "fee_unknown": true,
    "note": "Extended Deadline"
+  },
+  {
+   "festival": "bronzelens",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-04-02",
+    "to": "2027-04-02",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 60,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Feature: Standard, Short Film: Standard, Documentary: Standard, Short Documentary: Standard, International Feature"
+  },
+  {
+   "festival": "bronzelens",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "feature",
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-04-02",
+    "to": "2027-04-02",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Feature: Georgia Production, Short Film: Georgia Production, Short Film: Student, Documentary: Georgia Production, Short Documentary: Georgia Production"
+  },
+  {
+   "festival": "run-shoot-filmworks",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-04-15",
+    "to": "2027-04-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 65,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Short Documentary"
+  },
+  {
+   "festival": "run-shoot-filmworks",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-04-15",
+    "to": "2027-04-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 75,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Documentary Feature"
+  },
+  {
+   "festival": "run-shoot-filmworks",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-04-15",
+    "to": "2027-04-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Short Film"
+  },
+  {
+   "festival": "run-shoot-filmworks",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "feature"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-04-15",
+    "to": "2027-04-15",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 80,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Feature Film"
+  },
+  {
+   "festival": "bronzelens",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "feature",
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-04-16",
+    "to": "2027-04-16",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Feature: Georgia Production, Short Film: Georgia Production, Short Film: Student, Documentary: Georgia Production, Short Documentary: Georgia Production"
+  },
+  {
+   "festival": "bronzelens",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-04-16",
+    "to": "2027-04-16",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 65,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Feature: Standard, Short Film: Standard, Documentary: Standard, Short Documentary: Standard, International Feature"
   },
   {
    "festival": "voyage-in-time-fest-tokyo",
