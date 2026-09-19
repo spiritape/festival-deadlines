@@ -2639,6 +2639,16 @@
    }
   },
   {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-08-23",
+    "to": "2027-08-29",
+    "approximate": false
+   }
+  },
+  {
    "festival": "slamdance",
    "cycle": 2027,
    "runs": {
@@ -5033,6 +5043,68 @@
    "note": "Extended Deadline: LGBTQ Shorts, Horror Shorts"
   },
   {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "categories": [
+    "documentary",
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-31",
+    "to": "2026-10-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 25,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Magic Deadline: Narrative Short, Documentary Short, Animated Short, Collegiate+ Student Short"
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "categories": [
+    "documentary",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-31",
+    "to": "2026-10-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Magic Deadline: Narrative Feature, Documentary Feature, Animated Feature"
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-10-31",
+    "to": "2026-10-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 20,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Magic Deadline: K-12 Student Short"
+  },
+  {
    "festival": "bali",
    "cycle": 2027,
    "tier": "early",
@@ -5782,6 +5854,91 @@
    },
    "fee_unknown": true,
    "note": "Regular Deadline"
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-30",
+    "to": "2026-11-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 30,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Narrative Short, Documentary Short, Animated Short"
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-30",
+    "to": "2026-11-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Narrative Feature, Documentary Feature, Animated Feature"
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-30",
+    "to": "2026-11-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 20,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: K-12 Student Short"
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-30",
+    "to": "2026-11-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 25,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Collegiate+ Student Short"
   },
   {
    "festival": "voyage-in-time-fest",
@@ -6760,6 +6917,91 @@
    "note": "Extended Deadline: International Feature Documentary: non-world premiere, International Feature Documentary: available for world premiere"
   },
   {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-31",
+    "to": "2027-01-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 45,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Narrative Feature, Documentary Feature, Animated Feature"
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-31",
+    "to": "2027-01-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 20,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: K-12 Student Short"
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-31",
+    "to": "2027-01-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 30,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Collegiate+ Student Short"
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-31",
+    "to": "2027-01-31",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Narrative Short, Documentary Short, Animated Short"
+  },
+  {
    "festival": "bali",
    "cycle": 2027,
    "tier": "late",
@@ -7162,6 +7404,91 @@
    "note": "Closes Mar 13, 2027 (notify by May 4, 2027)"
   },
   {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-14",
+    "to": "2027-03-14",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Narrative Feature, Documentary Feature, Animated Feature"
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-14",
+    "to": "2027-03-14",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 40,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Narrative Short, Documentary Short, Animated Short"
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-14",
+    "to": "2027-03-14",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 20,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: K-12 Student Short"
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-03-14",
+    "to": "2027-03-14",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Collegiate+ Student Short"
+  },
+  {
    "festival": "run-shoot-filmworks",
    "cycle": 2027,
    "tier": "regular",
@@ -7465,6 +7792,131 @@
    },
    "fee_unknown": false,
    "note": "Late Deadline: Feature: Standard, Short Film: Standard, Documentary: Standard, Short Documentary: Standard, International Feature"
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "documentary",
+    "feature",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-04-30",
+    "to": "2027-04-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 70,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Narrative Feature, Documentary Feature, Animated Feature"
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "documentary",
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-04-30",
+    "to": "2027-04-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 50,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Narrative Short, Documentary Short, Animated Short"
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-04-30",
+    "to": "2027-04-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 20,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: K-12 Student Short"
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-04-30",
+    "to": "2027-04-30",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Collegiate+ Student Short"
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-05-21",
+    "to": "2027-05-21",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 20,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Special Student Deadline: K-12 Student Short"
+  },
+  {
+   "festival": "sidewalk",
+   "cycle": 2027,
+   "categories": [
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-05-21",
+    "to": "2027-05-21",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 35,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Special Student Deadline: Collegiate+ Student Short"
   },
   {
    "festival": "voyage-in-time-fest-tokyo",
