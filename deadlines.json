@@ -472,7 +472,8 @@
      "documentary"
     ],
     "year": 2027
-   }
+   },
+   "logo": "logos/bengaluru.png"
   },
   {
    "id": "berlin-gate",
@@ -1855,8 +1856,7 @@
      "animated"
     ],
     "year": 2027
-   },
-   "logo": "logos/internacional-cine-lebu.png"
+   }
   },
   {
    "id": "irish-television-awards",
@@ -2406,7 +2406,8 @@
      "documentary"
     ],
     "year": 2027
-   }
+   },
+   "logo": "logos/nouveau-cinema.png"
   },
   {
    "id": "oberhausen",
