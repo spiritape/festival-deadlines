@@ -204,6 +204,8 @@
    "submit": "https://filmfreeway.com/AnimationDingle",
    "website": "https://www.animationdingle.com",
    "portal": "filmfreeway",
+   "city": "Killarney",
+   "region": "Kerry",
    "country": "Ireland",
    "academy": {
     "lists": [
@@ -318,6 +320,7 @@
    "submit": "https://filmfreeway.com/AspenShortsfest",
    "website": "https://www.aspenfilm.org",
    "portal": "filmfreeway",
+   "city": "Aspen",
    "region": "Colorado",
    "country": "United States",
    "academy": {
@@ -430,6 +433,8 @@
    "submit": "https://filmfreeway.com/BaliInternationalFilmFestival",
    "website": "https://www.balinale.com",
    "portal": "filmfreeway",
+   "city": "Bali",
+   "region": "Bali",
    "country": "Indonesia",
    "academy": {
     "lists": [
@@ -449,6 +454,7 @@
    "submit": "https://filmfreeway.com/BeirutShortsInternationalFilmFestival",
    "website": "https://www.beirutshorts.com",
    "portal": "filmfreeway",
+   "city": "Beirut",
    "country": "Lebanon",
    "academy": {
     "lists": [
@@ -515,6 +521,7 @@
    "page": "https://www.bigskyfilmfest.org",
    "website": "https://www.bigskyfilmfest.org",
    "portal": "own",
+   "city": "Missoula",
    "region": "Montana",
    "country": "United States",
    "academy": {
@@ -549,6 +556,7 @@
    "page": "https://www.blackstarfest.org",
    "website": "https://www.blackstarfest.org",
    "portal": "own",
+   "city": "Philadelphia",
    "region": "Pennsylvania",
    "country": "United States",
    "academy": {
@@ -587,6 +595,7 @@
    "submit": "https://filmfreeway.com/BronzeLensFilmFestival",
    "website": "https://www.bronzelens.com",
    "portal": "filmfreeway",
+   "city": "Atlanta",
    "region": "Georgia",
    "country": "United States",
    "academy": {
@@ -664,6 +673,7 @@
    "page": "https://www.bisff.org",
    "website": "https://www.bisff.org",
    "portal": "own",
+   "city": "Busan",
    "country": "South Korea",
    "academy": {
     "lists": [
@@ -701,6 +711,8 @@
    "page": "https://www.ciffcalgary.ca",
    "website": "https://www.ciffcalgary.ca",
    "portal": "own",
+   "city": "Calgary",
+   "region": "Alberta",
    "country": "Canada",
    "academy": {
     "lists": [
@@ -771,6 +783,7 @@
    "page": "https://www.chicagofilmfestival.com",
    "website": "https://www.chicagofilmfestival.com",
    "portal": "own",
+   "city": "Chicago",
    "region": "Illinois",
    "country": "United States",
    "academy": {
@@ -838,6 +851,7 @@
    "submit": "https://filmfreeway.com/CINANIMA_76",
    "website": "https://www.cinanima.pt",
    "portal": "filmfreeway",
+   "city": "Espinho",
    "country": "Portugal",
    "academy": {
     "lists": [
@@ -1072,6 +1086,7 @@
    "submit": "https://filmfreeway.com/DocEdgeFestival",
    "website": "https://www.docedge.nz",
    "portal": "filmfreeway",
+   "city": "Auckland",
    "country": "New Zealand",
    "academy": {
     "lists": [
@@ -1089,6 +1104,7 @@
    "submit": "https://filmfreeway.com/DOCNYCShortListsandWinnersCircle",
    "website": "https://www.docnyc.net",
    "portal": "filmfreeway",
+   "city": "New York City",
    "region": "New York",
    "country": "United States",
    "academy": {
@@ -1205,6 +1221,7 @@
    "page": "https://www.ccadiff.ukzn.ac.za",
    "website": "https://www.ccadiff.ukzn.ac.za",
    "portal": "own",
+   "city": "Durban",
    "country": "South Africa",
    "academy": {
     "lists": [
@@ -1279,6 +1296,7 @@
    "page": "https://www.camerimage.pl",
    "website": "https://www.camerimage.pl",
    "portal": "own",
+   "city": "Torun",
    "country": "Poland",
    "academy": {
     "lists": [
@@ -1483,6 +1501,7 @@
    "submit": "https://filmfreeway.com/FloridaFilmFestival",
    "website": "https://www.floridafilmfestival.com",
    "portal": "filmfreeway",
+   "city": "Maitland",
    "region": "Florida",
    "country": "United States",
    "academy": {
@@ -1731,6 +1750,7 @@
    "page": "https://www.hamptonsfilmfest.org",
    "website": "https://www.hamptonsfilmfest.org",
    "portal": "own",
+   "city": "East Hampton",
    "region": "New York",
    "country": "United States",
    "academy": {
@@ -1853,6 +1873,7 @@
    "page": "https://www.hsdfi.org",
    "website": "https://www.hsdfi.org",
    "portal": "own",
+   "city": "Hot Springs",
    "region": "Arkansas",
    "country": "United States",
    "academy": {
@@ -1967,6 +1988,7 @@
    "submit": "https://filmfreeway.com/HeartlandFilmIndyShorts",
    "website": "https://www.heartlandfilm.org",
    "portal": "filmfreeway",
+   "city": "Indianapolis",
    "region": "Indiana",
    "country": "United States",
    "academy": {
@@ -2252,6 +2274,7 @@
    "submit": "https://filmfreeway.com/LeuvenInternationalShortFilmFestival",
    "website": "https://www.kortfilmfestival.be",
    "portal": "filmfreeway",
+   "city": "Leuven",
    "country": "Belgium",
    "academy": {
     "lists": [
@@ -2469,6 +2492,7 @@
    "page": "https://www.nashvillefilmfestival.org",
    "website": "https://www.nashvillefilmfestival.org",
    "portal": "own",
+   "city": "Nashville",
    "region": "Tennessee",
    "country": "United States",
    "academy": {
@@ -2502,6 +2526,7 @@
    "page": "https://www.nhfilmfestival.com",
    "website": "https://www.nhfilmfestival.com",
    "portal": "own",
+   "city": "Portsmouth",
    "region": "New Hampshire",
    "country": "United States",
    "academy": {
@@ -2547,6 +2572,7 @@
    "page": "https://www.neworleansfilmfestival.org",
    "website": "https://www.neworleansfilmfestival.org",
    "portal": "own",
+   "city": "New Orleans",
    "region": "Louisiana",
    "country": "United States",
    "academy": {
@@ -2898,6 +2924,7 @@
    "page": "https://www.provincetownfilm.org",
    "website": "https://www.provincetownfilm.org",
    "portal": "own",
+   "city": "Provincetown",
    "region": "Massachusetts",
    "country": "United States",
    "academy": {
@@ -3140,6 +3167,7 @@
    "page": "https://www.santafe.film",
    "website": "https://www.santafe.film",
    "portal": "own",
+   "city": "Santa Fe",
    "region": "New Mexico",
    "country": "United States",
    "academy": {
@@ -3227,6 +3255,7 @@
    "submit": "https://filmfreeway.com/SebastopolDocumentaryFilmFestival",
    "website": "https://www.sebastopolfilmfestival.org",
    "portal": "filmfreeway",
+   "city": "Sebastopol",
    "region": "California",
    "country": "United States",
    "academy": {
@@ -3404,6 +3433,8 @@
    "submit": "https://filmfreeway.com/SPARKANIMATION",
    "website": "https://www.sparkcg.org",
    "portal": "filmfreeway",
+   "city": "Vancouver",
+   "region": "British Columbia",
    "country": "Canada",
    "academy": {
     "lists": [
@@ -3747,6 +3778,7 @@
    "submit": "https://filmfreeway.com/UrbanworldFilmFestival",
    "website": "https://www.urbanworld.org",
    "portal": "filmfreeway",
+   "city": "New York",
    "region": "New York",
    "country": "United States",
    "academy": {
