@@ -328,6 +328,7 @@
     ],
     "year": 2027
    },
+   "moviemaker_year": 2026,
    "logo": "logos/aspen.png"
   },
   {
@@ -367,6 +368,7 @@
     ],
     "year": 2027
    },
+   "moviemaker_year": 2026,
    "logo": "logos/atlanta.png"
   },
   {
@@ -388,6 +390,7 @@
     ],
     "year": 2027
    },
+   "moviemaker_year": 2026,
    "logo": "logos/austin.png"
   },
   {
@@ -520,6 +523,7 @@
     ],
     "year": 2027
    },
+   "moviemaker_year": 2026,
    "logo": "logos/big-sky-documentary.png"
   },
   {
@@ -554,6 +558,7 @@
     ],
     "year": 2027
    },
+   "moviemaker_year": 2026,
    "logo": "logos/blackstar.png"
   },
   {
@@ -668,6 +673,7 @@
     ],
     "year": 2027
    },
+   "moviemaker_year": 2026,
    "logo": "logos/busan-10.png"
   },
   {
@@ -704,7 +710,21 @@
     ],
     "year": 2027
    },
+   "moviemaker_year": 2026,
    "logo": "logos/calgary.png"
+  },
+  {
+   "id": "calgary-underground",
+   "name": "Calgary Underground Film Festival",
+   "entry": "open",
+   "page": "https://calgaryundergroundfilm.org",
+   "website": "https://calgaryundergroundfilm.org",
+   "portal": "own",
+   "city": "Calgary",
+   "region": "Alberta",
+   "country": "Canada",
+   "moviemaker_year": 2026,
+   "logo": "logos/calgary-underground.png"
   },
   {
    "id": "camden",
@@ -760,7 +780,8 @@
      "documentary"
     ],
     "year": 2027
-   }
+   },
+   "moviemaker_year": 2026
   },
   {
    "id": "chicago-childrens",
@@ -903,6 +924,19 @@
    "logo": "logos/cork.png"
   },
   {
+   "id": "coronado-island",
+   "name": "Coronado Island Film Festival",
+   "entry": "open",
+   "page": "https://coronadofilmfest.com",
+   "website": "https://coronadofilmfest.com",
+   "portal": "own",
+   "city": "Coronado",
+   "region": "California",
+   "country": "United States",
+   "moviemaker_year": 2026,
+   "logo": "logos/coronado-island.png"
+  },
+  {
    "id": "cucalorus",
    "name": "Cucalorus Film Festival",
    "entry": "open",
@@ -913,6 +947,7 @@
    "city": "Wilmington",
    "region": "NC",
    "country": "United States",
+   "moviemaker_year": 2026,
    "logo": "logos/cucalorus.png"
   },
   {
@@ -949,6 +984,17 @@
     "year": 2027
    },
    "logo": "logos/dallas.png"
+  },
+  {
+   "id": "dances-with-films",
+   "name": "Dances With Films",
+   "entry": "open",
+   "page": "https://danceswithfilms.com",
+   "website": "https://danceswithfilms.com",
+   "portal": "own",
+   "city": "Los Angeles and New York City",
+   "moviemaker_year": 2026,
+   "logo": "logos/dances-with-films.png"
   },
   {
    "id": "deadcenter",
@@ -1051,6 +1097,7 @@
     ],
     "year": 2027
    },
+   "moviemaker_year": 2026,
    "logo": "logos/doc-nyc.png"
   },
   {
@@ -1167,6 +1214,7 @@
     ],
     "year": 2027
    },
+   "moviemaker_year": 2026,
    "logo": "logos/durban.png"
   },
   {
@@ -1200,6 +1248,31 @@
    "logo": "logos/edmonton.png"
   },
   {
+   "id": "el-dorado",
+   "name": "El Dorado Film Festival",
+   "entry": "open",
+   "page": "https://eldofilmfest.com",
+   "website": "https://eldofilmfest.com",
+   "portal": "own",
+   "city": "El Dorado",
+   "region": "Arkansas",
+   "country": "United States",
+   "moviemaker_year": 2026
+  },
+  {
+   "id": "el-paso",
+   "name": "El Paso Film Festival",
+   "entry": "open",
+   "page": "https://elpasofilmfestival.org",
+   "website": "https://elpasofilmfestival.org",
+   "portal": "own",
+   "city": "El Paso",
+   "region": "Texas",
+   "country": "United States",
+   "moviemaker_year": 2026,
+   "logo": "logos/el-paso.png"
+  },
+  {
    "id": "energacamerimage",
    "name": "Energacamerimage International Film Festival",
    "entry": "open",
@@ -1213,7 +1286,58 @@
     ],
     "year": 2027
    },
+   "moviemaker_year": 2026,
    "logo": "logos/energacamerimage.png"
+  },
+  {
+   "id": "evolution-mallorca",
+   "name": "Evolution Mallorca International Film Festival",
+   "entry": "open",
+   "page": "https://evolutionfilmfestival.com",
+   "website": "https://evolutionfilmfestival.com",
+   "portal": "own",
+   "city": "Palma de Mallorca",
+   "country": "Spain",
+   "moviemaker_year": 2026,
+   "logo": "logos/evolution-mallorca.png"
+  },
+  {
+   "id": "fantasia",
+   "name": "Fantasia International Film Festival",
+   "entry": "open",
+   "page": "https://fantasiafestival.com/en",
+   "website": "https://fantasiafestival.com/en",
+   "portal": "own",
+   "city": "Montreal",
+   "region": "Quebec",
+   "country": "Canada",
+   "moviemaker_year": 2026,
+   "logo": "logos/fantasia.png"
+  },
+  {
+   "id": "fantaspoa",
+   "name": "Fantaspoa International Fantastic Film Festival",
+   "entry": "open",
+   "page": "https://fantaspoa.com",
+   "website": "https://fantaspoa.com",
+   "portal": "own",
+   "city": "Porto Alegre",
+   "country": "Brazil",
+   "moviemaker_year": 2026,
+   "logo": "logos/fantaspoa.png"
+  },
+  {
+   "id": "fantastic-fest",
+   "name": "Fantastic Fest",
+   "entry": "open",
+   "page": "https://fantasticfest.com",
+   "website": "https://fantasticfest.com",
+   "portal": "own",
+   "city": "Austin",
+   "region": "Texas",
+   "country": "United States",
+   "moviemaker_year": 2026,
+   "logo": "logos/fantastic-fest.png"
   },
   {
    "id": "fantoche-animation",
@@ -1308,6 +1432,32 @@
    "logo": "logos/ficx-gijon.png"
   },
   {
+   "id": "film-fest-knox",
+   "name": "Film Fest Knox",
+   "entry": "open",
+   "page": "https://filmfestknox.com",
+   "website": "https://filmfestknox.com",
+   "portal": "own",
+   "city": "Knoxville",
+   "region": "Tennessee",
+   "country": "United States",
+   "moviemaker_year": 2026,
+   "logo": "logos/film-fest-knox.png"
+  },
+  {
+   "id": "filmquest",
+   "name": "FilmQuest",
+   "entry": "open",
+   "page": "https://filmquestfest.com",
+   "website": "https://filmquestfest.com",
+   "portal": "own",
+   "city": "Provo",
+   "region": "Utah",
+   "country": "United States",
+   "moviemaker_year": 2026,
+   "logo": "logos/filmquest.png"
+  },
+  {
    "id": "flickerfest",
    "name": "Flickerfest International Short Film Festival",
    "entry": "open",
@@ -1343,6 +1493,7 @@
     ],
     "year": 2027
    },
+   "moviemaker_year": 2026,
    "logo": "logos/florida.png"
   },
   {
@@ -1589,6 +1740,7 @@
     ],
     "year": 2027
    },
+   "moviemaker_year": 2026,
    "logo": "logos/hamptons.png"
   },
   {
@@ -1621,6 +1773,7 @@
    "city": "Indianapolis",
    "region": "IN",
    "country": "United States",
+   "moviemaker_year": 2026,
    "logo": "logos/heartland.png"
   },
   {
@@ -1708,6 +1861,7 @@
     ],
     "year": 2027
    },
+   "moviemaker_year": 2026,
    "logo": "logos/hot-springs-documentary.png"
   },
   {
@@ -1823,6 +1977,7 @@
     ],
     "year": 2027
    },
+   "moviemaker_year": 2026,
    "logo": "logos/indy-presented-by.png"
   },
   {
@@ -1857,6 +2012,18 @@
     ],
     "year": 2027
    }
+  },
+  {
+   "id": "iris-prize",
+   "name": "Iris Prize LGBTQ+ Film Festival",
+   "entry": "open",
+   "page": "https://irisprize.org",
+   "website": "https://irisprize.org",
+   "portal": "own",
+   "city": "Cardiff",
+   "country": "Wales",
+   "moviemaker_year": 2026,
+   "logo": "logos/iris-prize.png"
   },
   {
    "id": "irish-television-awards",
@@ -2124,7 +2291,21 @@
     ],
     "year": 2027
    },
+   "moviemaker_year": 2026,
    "logo": "logos/locarno.png"
+  },
+  {
+   "id": "louisiana-film-prize",
+   "name": "Louisiana Film Prize",
+   "entry": "open",
+   "page": "https://prizefest.com/film",
+   "website": "https://prizefest.com/film",
+   "portal": "own",
+   "city": "Shreveport",
+   "region": "Louisiana",
+   "country": "United States",
+   "moviemaker_year": 2026,
+   "logo": "logos/louisiana-film-prize.png"
   },
   {
    "id": "malaga",
@@ -2136,6 +2317,18 @@
    "city": "Malaga",
    "country": "Spain",
    "logo": "logos/malaga.png"
+  },
+  {
+   "id": "mammoth-lakes",
+   "name": "Mammoth Lakes Film Festival",
+   "entry": "open",
+   "page": "https://mammothlakesfilmfestival.com",
+   "website": "https://mammothlakesfilmfestival.com",
+   "portal": "own",
+   "city": "Mammoth Lakes",
+   "region": "California",
+   "country": "United States",
+   "moviemaker_year": 2026
   },
   {
    "id": "manchester-animation",
@@ -2164,6 +2357,19 @@
    "city": "Mar del Plata",
    "country": "Argentina",
    "logo": "logos/mar-del-plata.png"
+  },
+  {
+   "id": "mcminnville-short",
+   "name": "McMinnville Short Film Festival",
+   "entry": "open",
+   "page": "https://mcminnvillefilmfest.org",
+   "website": "https://mcminnvillefilmfest.org",
+   "portal": "own",
+   "city": "McMinnville",
+   "region": "Oregon",
+   "country": "United States",
+   "moviemaker_year": 2026,
+   "logo": "logos/mcminnville-short.png"
   },
   {
    "id": "melbourne",
@@ -2215,6 +2421,18 @@
    "logo": "logos/morelia.png"
   },
   {
+   "id": "motelx-lisbon",
+   "name": "MOTELX – Lisbon International Horror Film Festival",
+   "entry": "open",
+   "page": "https://motelx.org/en",
+   "website": "https://motelx.org/en",
+   "portal": "own",
+   "city": "Lisbon",
+   "country": "Portugal",
+   "moviemaker_year": 2026,
+   "logo": "logos/motelx-lisbon.png"
+  },
+  {
    "id": "mountainfilm",
    "name": "Mountainfilm",
    "entry": "open",
@@ -2261,7 +2479,21 @@
     ],
     "year": 2027
    },
+   "moviemaker_year": 2026,
    "logo": "logos/nashville.png"
+  },
+  {
+   "id": "nevada-city",
+   "name": "Nevada City Film Festival",
+   "entry": "open",
+   "page": "https://nevadacityfilmfestival.com",
+   "website": "https://nevadacityfilmfestival.com",
+   "portal": "own",
+   "city": "Nevada City",
+   "region": "California",
+   "country": "United States",
+   "moviemaker_year": 2026,
+   "logo": "logos/nevada-city.png"
   },
   {
    "id": "new-hampshire",
@@ -2280,6 +2512,7 @@
     ],
     "year": 2027
    },
+   "moviemaker_year": 2026,
    "logo": "logos/new-hampshire.png"
   },
   {
@@ -2324,6 +2557,7 @@
     ],
     "year": 2027
    },
+   "moviemaker_year": 2026,
    "logo": "logos/new-orleans.png"
   },
   {
@@ -2354,6 +2588,19 @@
    "city": "New York",
    "country": "USA",
    "logo": "logos/new-york-screening.png"
+  },
+  {
+   "id": "newfilmmakers-la",
+   "name": "NewFilmmakers Los Angeles",
+   "entry": "open",
+   "page": "https://newfilmmakersla.com",
+   "website": "https://newfilmmakersla.com",
+   "portal": "own",
+   "city": "Los Angeles",
+   "region": "California",
+   "country": "United States",
+   "moviemaker_year": 2026,
+   "logo": "logos/newfilmmakers-la.png"
   },
   {
    "id": "nordisk-panorama",
@@ -2469,6 +2716,7 @@
    "city": "Omaha",
    "region": "NE",
    "country": "United States",
+   "moviemaker_year": 2026,
    "logo": "logos/omaha.png"
   },
   {
@@ -2508,6 +2756,7 @@
    "city": "Ouray",
    "region": "CO",
    "country": "United States",
+   "moviemaker_year": 2026,
    "logo": "logos/ouray.png"
   },
   {
@@ -2659,6 +2908,7 @@
     ],
     "year": 2027
    },
+   "moviemaker_year": 2026,
    "logo": "logos/provincetown.png"
   },
   {
@@ -2750,6 +3000,7 @@
     ],
     "year": 2027
    },
+   "moviemaker_year": 2026,
    "logo": "logos/riverrun.png"
   },
   {
@@ -2783,6 +3034,19 @@
     "year": 2027
    },
    "logo": "logos/run-shoot-filmworks.png"
+  },
+  {
+   "id": "salute-your-shorts",
+   "name": "Salute Your Shorts Film Festival",
+   "entry": "open",
+   "page": "https://saluteyourshortsfest.com",
+   "website": "https://saluteyourshortsfest.com",
+   "portal": "own",
+   "city": "Los Angeles",
+   "region": "California",
+   "country": "United States",
+   "moviemaker_year": 2026,
+   "logo": "logos/salute-your-shorts.png"
   },
   {
    "id": "san-francisco-jewish",
@@ -2886,6 +3150,7 @@
     ],
     "year": 2027
    },
+   "moviemaker_year": 2026,
    "logo": "logos/santa-fe.png"
   },
   {
@@ -2919,6 +3184,19 @@
    "region": "FL",
    "country": "United States",
    "logo": "logos/sarasota.png"
+  },
+  {
+   "id": "scad-savannah",
+   "name": "SCAD Savannah Film Festival",
+   "entry": "open",
+   "page": "https://filmfest.scad.edu",
+   "website": "https://filmfest.scad.edu",
+   "portal": "own",
+   "city": "Savannah",
+   "region": "Georgia",
+   "country": "United States",
+   "moviemaker_year": 2026,
+   "logo": "logos/scad-savannah.png"
   },
   {
    "id": "seattle",
@@ -2960,6 +3238,19 @@
    "logo": "logos/sebastopol-documentary.png"
   },
   {
+   "id": "sedona",
+   "name": "Sedona International Film Festival",
+   "entry": "open",
+   "page": "https://sedonafilmfestival.com",
+   "website": "https://sedonafilmfestival.com",
+   "portal": "own",
+   "city": "Sedona",
+   "region": "Arizona",
+   "country": "United States",
+   "moviemaker_year": 2026,
+   "logo": "logos/sedona.png"
+  },
+  {
    "id": "sffilm",
    "name": "SFFILM (San Francisco)",
    "entry": "open",
@@ -2978,6 +3269,7 @@
     ],
     "year": 2027
    },
+   "moviemaker_year": 2026,
    "logo": "logos/sffilm.png"
   },
   {
@@ -3027,6 +3319,7 @@
    "city": "Birmingham",
    "region": "AL",
    "country": "United States",
+   "moviemaker_year": 2026,
    "logo": "logos/sidewalk.png"
   },
   {
@@ -3295,6 +3588,7 @@
    "portal": "own",
    "city": "Wroclaw",
    "country": "Poland",
+   "moviemaker_year": 2026,
    "logo": "logos/tauron-american-in-poland.png"
   },
   {
@@ -3334,6 +3628,17 @@
     "year": 2027
    },
    "logo": "logos/thomas-edison.png"
+  },
+  {
+   "id": "three-rivers",
+   "name": "Three Rivers Film Festival",
+   "entry": "open",
+   "page": "https://filmpittsburgh.org",
+   "website": "https://filmpittsburgh.org",
+   "portal": "own",
+   "city": "Pittsburgh",
+   "moviemaker_year": 2026,
+   "logo": "logos/three-rivers.png"
   },
   {
    "id": "tiff",
@@ -3603,6 +3908,19 @@
     "year": 2027
    },
    "logo": "logos/warsaw.png"
+  },
+  {
+   "id": "whistler",
+   "name": "Whistler Film Festival",
+   "entry": "open",
+   "page": "https://whistlerfilmfestival.com",
+   "website": "https://whistlerfilmfestival.com",
+   "portal": "own",
+   "city": "Whistler",
+   "region": "British Columbia",
+   "country": "Canada",
+   "moviemaker_year": 2026,
+   "logo": "logos/whistler.png"
   },
   {
    "id": "woodstock",
