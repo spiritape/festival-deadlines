@@ -81,6 +81,7 @@
    "submit": "https://filmfreeway.com/AmericanDocumentaryFilmFestivalandFilmFund",
    "website": "https://www.amdocfilmfest.com",
    "portal": "filmfreeway",
+   "city": "Palm Springs",
    "region": "California",
    "country": "United States",
    "academy": {
@@ -1816,10 +1817,11 @@
    "id": "hollyshorts",
    "name": "Hollyshorts Film Festival",
    "entry": "open",
-   "page": "https://filmfreeway.com/HollyShortsLondon",
-   "submit": "https://filmfreeway.com/HollyShortsLondon",
+   "page": "https://filmfreeway.com/HollyShortsFilmFestival",
+   "submit": "https://filmfreeway.com/HollyShortsFilmFestival",
    "website": "https://www.hollyshorts.com",
    "portal": "filmfreeway",
+   "city": "Sherman Oaks",
    "region": "California",
    "country": "United States",
    "academy": {
@@ -2806,8 +2808,8 @@
    "id": "palm-springs-shortfest",
    "name": "Palm Springs International Shortfest",
    "entry": "open",
-   "page": "https://filmfreeway.com/PalmSpringsInternationalFilmFestival",
-   "submit": "https://filmfreeway.com/PalmSpringsInternationalFilmFestival",
+   "page": "https://www.psfilmfest.org/shortfest",
+   "submit": "https://www.psfilmfest.org/shortfest",
    "website": "https://www.psfilmfest.org",
    "portal": "filmfreeway",
    "region": "California",
@@ -2830,6 +2832,7 @@
    "submit": "https://filmfreeway.com/ThePanAfricanFilmFestival",
    "website": "https://www.paff.org",
    "portal": "filmfreeway",
+   "city": "Los Angeles",
    "region": "California",
    "country": "United States",
    "academy": {
@@ -4185,6 +4188,16 @@
     "precision": "day",
     "from": "2027-05-27",
     "to": "2027-06-02",
+    "approximate": false
+   }
+  },
+  {
+   "festival": "hollyshorts",
+   "cycle": 2027,
+   "runs": {
+    "precision": "day",
+    "from": "2027-08-12",
+    "to": "2027-08-22",
     "approximate": false
    }
   },
@@ -8594,6 +8607,28 @@
    "note": "Late Deadline"
   },
   {
+   "festival": "hollyshorts",
+   "cycle": 2027,
+   "tier": "early",
+   "categories": [
+    "documentary",
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-29",
+    "to": "2027-01-29",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 55,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Early Bird Deadline: Short Live Action, Animation, Documentary, Student, Bollywood Shorts"
+  },
+  {
    "festival": "doc-edge",
    "cycle": 2027,
    "tier": "extended",
@@ -9429,6 +9464,28 @@
    "note": "Regular Deadline: Feature: Georgia Production, Short Film: Georgia Production, Short Film: Student, Documentary: Georgia Production, Short Documentary: Georgia Production"
   },
   {
+   "festival": "hollyshorts",
+   "cycle": 2027,
+   "tier": "regular",
+   "categories": [
+    "documentary",
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-04-02",
+    "to": "2027-04-02",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 65,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Regular Deadline: Short Live Action, Animation, Documentary, Student, Bollywood Shorts"
+  },
+  {
    "festival": "run-shoot-filmworks",
    "cycle": 2027,
    "tier": "late",
@@ -9641,6 +9698,28 @@
    "note": "Extended Deadline: Collegiate+ Student Short"
   },
   {
+   "festival": "hollyshorts",
+   "cycle": 2027,
+   "tier": "late",
+   "categories": [
+    "documentary",
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-05-07",
+    "to": "2027-05-07",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 75,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Late Deadline: Short Live Action, Animation, Documentary, Student, Bollywood Shorts"
+  },
+  {
    "festival": "sidewalk",
    "cycle": 2027,
    "categories": [
@@ -9707,6 +9786,28 @@
    },
    "fee_unknown": true,
    "note": "Late Deadline"
+  },
+  {
+   "festival": "hollyshorts",
+   "cycle": 2027,
+   "tier": "extended",
+   "categories": [
+    "documentary",
+    "short",
+    "student"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-06-01",
+    "to": "2027-06-01",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 85,
+    "currency": "USD"
+   },
+   "fee_unknown": false,
+   "note": "Extended Deadline: Short Live Action, Animation, Documentary, Student, Bollywood Shorts"
   },
   {
    "festival": "new-york-screening",
