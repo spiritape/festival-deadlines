@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-09-20",
+ "generated_on": "2026-09-21",
  "festivals": [
   {
    "id": "academy-canadian-cinema",
@@ -46,6 +46,8 @@
    "page": "https://www.alcine.org",
    "website": "https://www.alcine.org",
    "portal": "own",
+   "city": "Alcalá de Henares",
+   "region": "Madrid",
    "country": "Spain",
    "academy": {
     "lists": [
@@ -64,6 +66,7 @@
    "page": "https://www.alex-sff.com",
    "website": "https://www.alex-sff.com",
    "portal": "own",
+   "city": "Alexandria",
    "country": "Egypt",
    "academy": {
     "lists": [
@@ -119,6 +122,7 @@
    "page": "https://www.festanca.sk/en/",
    "website": "https://www.festanca.sk/en/",
    "portal": "own",
+   "city": "Žilina",
    "country": "Slovakia",
    "academy": {
     "lists": [
@@ -135,6 +139,7 @@
    "page": "https://www.vcmedia.org/festival",
    "website": "https://www.vcmedia.org/festival",
    "portal": "own",
+   "city": "Los Angeles",
    "region": "California",
    "country": "United States",
    "academy": {
@@ -172,6 +177,7 @@
    "page": "https://www.anifilm.cz",
    "website": "https://www.anifilm.cz",
    "portal": "own",
+   "city": "Liberec",
    "country": "Czech Republic",
    "academy": {
     "lists": [
@@ -188,6 +194,7 @@
    "page": "https://www.animafestival.be/en",
    "website": "https://www.animafestival.be/en",
    "portal": "own",
+   "city": "Brussels",
    "country": "Belgium",
    "academy": {
     "lists": [
@@ -223,6 +230,7 @@
    "page": "https://www.animator-festival.com",
    "website": "https://www.animator-festival.com",
    "portal": "own",
+   "city": "Poznań",
    "country": "Poland",
    "academy": {
     "lists": [
@@ -2813,6 +2821,7 @@
    "submit": "https://www.psfilmfest.org/shortfest",
    "website": "https://www.psfilmfest.org",
    "portal": "filmfreeway",
+   "city": "Palm Springs",
    "region": "California",
    "country": "United States",
    "academy": {
@@ -3054,6 +3063,7 @@
    "submit": "https://filmfreeway.com/mvaaff",
    "website": "https://www.mvaaff.com",
    "portal": "filmfreeway",
+   "city": "Oak Bluffs",
    "region": "Massachusetts",
    "country": "United States",
    "academy": {
@@ -4527,90 +4537,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "beirut",
-   "cycle": 2026,
-   "tier": "late",
-   "categories": [
-    "documentary",
-    "experimental",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-08-21",
-    "to": "2026-08-21",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 45,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: International Short Live Action (Fiction) Film Competition, International Short Documentary Competition, International Short Animation Competition, International Short Experimental Competition, International Short Web / New Media Competition"
-  },
-  {
-   "festival": "beirut",
-   "cycle": 2026,
-   "tier": "late",
-   "categories": [
-    "documentary",
-    "experimental",
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-08-21",
-    "to": "2026-08-21",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 20,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: Lebanese Independent Short Live Action (Fiction) Film Competition, Lebanese Independent Short Documentary Competition, Lebanese Independent Short Animation Competition, Lebanese Independent Short Experimental Category, Lebanese Independent Short Web / New Media Competition"
-  },
-  {
-   "festival": "beirut",
-   "cycle": 2026,
-   "tier": "late",
-   "categories": [
-    "short"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-08-21",
-    "to": "2026-08-21",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 50,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: WTF Shorts Category"
-  },
-  {
-   "festival": "beirut",
-   "cycle": 2026,
-   "tier": "late",
-   "categories": [
-    "student"
-   ],
-   "closes": {
-    "precision": "day",
-    "from": "2026-08-21",
-    "to": "2026-08-21",
-    "approximate": false
-   },
-   "fee": {
-    "amount": 10,
-    "currency": "USD"
-   },
-   "fee_unknown": false,
-   "note": "Late Deadline: Beirut Seeds Competition - Lebanese Students and Amateurs"
-  },
   {
    "festival": "poff-tallinn-black-nights",
    "cycle": 2026,
