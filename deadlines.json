@@ -679,7 +679,8 @@
    "id": "busan-10",
    "name": "Busan International Short Film Festival",
    "entry": "open",
-   "page": "https://www.bisff.org",
+   "page": "https://www.bisff.org/page/?pid=recruitment01",
+   "submit": "https://www.bisff.org/page/?pid=recruitment01",
    "website": "https://www.bisff.org",
    "portal": "own",
    "city": "Busan",
@@ -789,7 +790,8 @@
    "id": "chicago",
    "name": "Chicago International Film Festival",
    "entry": "open",
-   "page": "https://www.chicagofilmfestival.com",
+   "page": "https://filmfreeway.com/ChicagoInternationalFilmFestival",
+   "submit": "https://filmfreeway.com/ChicagoInternationalFilmFestival",
    "website": "https://www.chicagofilmfestival.com",
    "portal": "own",
    "city": "Chicago",
@@ -1548,7 +1550,8 @@
    "id": "french-academy-cinema",
    "name": "Académie des César [french Academy of Cinema]",
    "entry": "open",
-   "page": "https://www.academie-cinema.org",
+   "page": "https://www.academie-cinema.org/les-courts-metrages-aux-cesar/",
+   "submit": "https://www.academie-cinema.org/les-courts-metrages-aux-cesar/",
    "website": "https://www.academie-cinema.org",
    "portal": "own",
    "country": "France",
@@ -4119,6 +4122,11 @@
     "to": "2027-06-30",
     "approximate": false
    }
+  },
+  {
+   "festival": "busan-10",
+   "cycle": 2027,
+   "ordinal": 44
   },
   {
    "festival": "cannes",
@@ -7299,6 +7307,48 @@
    "note": "Extended Deadline"
   },
   {
+   "festival": "busan-10",
+   "cycle": 2027,
+   "ordinal": 44,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-08",
+    "to": "2026-11-08",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 11,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Early bird: International Competition and AI Competition"
+  },
+  {
+   "festival": "busan-10",
+   "cycle": 2027,
+   "ordinal": 44,
+   "tier": "early",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2026-11-08",
+    "to": "2026-11-08",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 9,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Early bird: Korean Competition"
+  },
+  {
    "festival": "malaga",
    "cycle": 2027,
    "categories": [
@@ -8433,6 +8483,48 @@
    },
    "fee_unknown": false,
    "note": "Extended Deadline: Documentary Short, Animated Work"
+  },
+  {
+   "festival": "busan-10",
+   "cycle": 2027,
+   "ordinal": 44,
+   "tier": "final",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-11",
+    "to": "2027-01-11",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 15,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Final deadline: International Competition and AI Competition"
+  },
+  {
+   "festival": "busan-10",
+   "cycle": 2027,
+   "ordinal": 44,
+   "tier": "final",
+   "categories": [
+    "short"
+   ],
+   "closes": {
+    "precision": "day",
+    "from": "2027-01-11",
+    "to": "2027-01-11",
+    "approximate": false
+   },
+   "fee": {
+    "amount": 13,
+    "currency": "EUR"
+   },
+   "fee_unknown": false,
+   "note": "Final deadline: Korean Competition"
   },
   {
    "festival": "doc-edge",
