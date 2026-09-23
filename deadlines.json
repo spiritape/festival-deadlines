@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-09-22",
+ "generated_on": "2026-09-23",
  "festivals": [
   {
    "id": "academy-canadian-cinema",
@@ -2301,17 +2301,6 @@
    "logo": "logos/leuven.png"
   },
   {
-   "id": "levante-mostra-del-di-taranto",
-   "name": "Levante — Mostra del Cinema di Taranto",
-   "entry": "open",
-   "page": "https://www.mostracinemataranto.org/",
-   "website": "https://www.mostracinemataranto.org/",
-   "portal": "own",
-   "city": "Taranto",
-   "country": "Italy",
-   "logo": "logos/levante-mostra-del-di-taranto.png"
-  },
-  {
    "id": "locarno",
    "name": "Locarno Festival",
    "entry": "open",
@@ -4251,16 +4240,6 @@
    }
   },
   {
-   "festival": "levante-mostra-del-di-taranto",
-   "cycle": 2026,
-   "runs": {
-    "precision": "season",
-    "from": "2025-12-01",
-    "to": "2026-02-28",
-    "approximate": false
-   }
-  },
-  {
    "festival": "malaga",
    "cycle": 2027,
    "runs": {
@@ -5804,20 +5783,6 @@
    },
    "fee_unknown": false,
    "note": "Regular Deadline: Hungarian Competition - ANIMATION, International Competition - DOCUMENTARY, Hungarian Competition - DOCUMENTARY"
-  },
-  {
-   "festival": "levante-mostra-del-di-taranto",
-   "cycle": 2026,
-   "tier": "final",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-09-30",
-    "to": "2026-09-30",
-    "approximate": false
-   },
-   "fee_unknown": true,
-   "note": "Sept 30, 2026"
   },
   {
    "festival": "portland",
