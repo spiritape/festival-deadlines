@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated_on": "2026-09-24",
+ "generated_on": "2026-09-25",
  "festivals": [
   {
    "id": "academy-canadian-cinema",
@@ -4514,22 +4514,6 @@
   }
  ],
  "deadlines": [
-  {
-   "festival": "sxsw",
-   "cycle": 2027,
-   "tier": "early",
-   "categories": [],
-   "closes": {
-    "precision": "day",
-    "from": "2026-08-25",
-    "to": "2026-08-25",
-    "approximate": false,
-    "time": "23:59",
-    "tz": "PT"
-   },
-   "fee_unknown": true,
-   "note": "First Deadline"
-  },
   {
    "festival": "portland",
    "cycle": 2027,
